@@ -1,0 +1,430 @@
+
+body {
+    width: 100vw;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    background-color: #ffffff;
+}
+
+/* .montserrat-letra {
+    font-family: "Montserrat", sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    } */
+
+html,
+body {
+    overflow-x: hidden !important;
+}
+
+header {
+    width: 100%;
+    display: inline;
+    align-items: center;
+    text-align: center;
+    background-color: #0c4e22;
+}
+
+.title {
+    color: white;
+    background-color: #0c4e22;
+    /* animation: scrolling 10s linear infinite;*/
+}
+
+/* @keyframes scrolling {
+    0% {transform: translateX(10%);}
+    100% {transform: translateX(-100%);}
+} */
+
+#coinmarketcap-widget-marquee {
+    margin: 0 auto;
+    /* display: block; */
+    background-color: #0c4e22;
+    width: 60%;
+    overflow: hidden;
+}
+
+/* Barra lateral en pantallas grandes */
+.sidebar {
+    position: fixed;
+    left: -200%;
+    top: 0;
+    width: 25rem;
+    height: 100vh !important;
+    background: #08411b;
+    color: white;
+    padding-top: 1.25rem;
+    transition: left 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 1050 !important;
+    overflow-y: auto;
+    /* Permite hacer scroll si hay muchos enlaces */
+    transition: left 0.3s ease-in-out;
+    /* Para animar la apertura/cierre */
+
+
+}
+
+
+
+.sidebar.active {
+    left: 0;
+}
+
+
+.sidebar img {
+    width: 6.25rem;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+.menu {
+    font-size: 1.5rem;
+    margin-top: 5rem;
+}
+
+a,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+
+.sidebar ul li {
+    padding: 0.935rem;
+    cursor: pointer;
+}
+
+.sidebar ul li:hover {
+    background: #093d1b;
+}
+
+.dropdown {
+    position: relative;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    left: 25%;
+    top: 100%;
+    background: #0c4e22;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 150px;
+}
+
+.submenu li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.submenu li:hover {
+    background: #666;
+}
+
+/* Mostrar submenú al pasar el mouse */
+.dropdown:hover .submenu {
+    display: block;
+}
+
+/* .toggle-btn2 {
+    display: none;
+} */
+.toggle-btn {
+    position: fixed;
+    left: 0;
+    top: 50%;
+    background: #08411b;
+    color: white;
+    cursor: pointer;
+    z-index: 1050 !important;
+    transform: translateY(-50%);
+    padding: 10px 15px;
+    border-radius: 0 10px 10px 0;
+    transition: all 0.3s ease-in-out;
+    /* Transición suave */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    /* Sombra inicial */
+}
+
+.toggle-btn:hover {
+    background: #0a5d26;
+    /* Color más claro */
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.4);
+    /* Sombra más fuerte */
+    transform: translateY(-50%) scale(1.05);
+    /* Pequeño zoom */
+}
+
+.sidebar.active+.toggle-btn {
+    background: #093d1b;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.5);
+}
+#fecha {
+    text-align: right !important;
+}
+
+
+main {
+    margin: 5rem;
+
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+    flex-direction: column;
+    color: #000000;
+    font-size: large;
+    font-weight: 200;
+}
+
+#fecha {
+    font-size: clamp(0.5rem, 1.5vw, 1rem);
+    width: 60%;
+
+}
+
+
+
+main a {
+    display: block;
+
+    margin: 1rem;
+}
+
+.imgart {
+    width: 15rem;
+    height: auto;
+    margin: 0px;
+}
+
+.titulo {
+    font-size: 2rem;
+    width: 60%;
+    text-align: center;
+}
+
+.contenido {
+    align-items: center;
+    text-align: justify;
+    /*font-size: 2rem;*/
+    width: 60%;
+}
+.card {
+    display: flex;
+    font-weight: 500;
+    flex-direction: column;
+    justify-content: center;
+    width: 650px;
+    height: 300px; /* Altura fija para todas las cards */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-body {
+    flex-grow: 1; /* Para que el contenido se distribuya uniformemente */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+}
+
+.card p {
+    flex-grow: 1; /* Hace que los textos crezcan de manera uniforme */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card img {
+    resize: both;
+    object-fit: cover;
+    height: 100%;
+}
+
+.resumen {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+
+/* Ajuste para pantallas menores a 768px */
+/* @media (max-width: 768px) {
+    .contenido {
+        font-size: 1.1rem;
+    }
+} */
+
+/* Ajuste para móviles aún más pequeños (ej: 480px) */
+/* @media (max-width: 480px) {
+    .contenido {
+        font-size: 0.9rem;
+    }
+} */
+ .inicio {
+    text-align: center;
+    padding: 2rem;
+}
+
+
+.presentacion {
+    margin-top: 2rem;
+    max-width: 800px;
+    margin: auto;
+    padding: 1.5rem;
+    background: #f9f9f9;
+    border-radius: 10px;
+} 
+
+.tarjetas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem;
+}
+
+/* Tarjetas más grandes */
+.tarjeta {
+    width: 400px; /* Más grandes */
+    background: linear-gradient(135deg, #08411b, #0a5826);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 1rem;
+    transition: transform 0.3s, background 0.5s ease-in-out;
+}
+
+/* Imagen dentro de la tarjeta */
+.tarjeta img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+/* Contenido de la tarjeta */
+.tarjeta-contenido {
+    padding: 1.5rem;
+    color: white;
+}
+
+/* Títulos */
+.tarjeta h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Texto */
+.tarjeta p {
+    font-size: 1.1rem;
+    color: #d4f8e8;
+}
+
+/* Botón */
+.tarjeta .btn {
+    display: inline-block;
+    background: #f7b500;
+    color: #222;
+    padding: 0.7rem 1.5rem;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.tarjeta .btn:hover {
+    background: #ffcc33;
+}
+
+/* Animación de hover */
+.tarjeta:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #0a5826, #127b3e);
+}
+
+.pagina-construccion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(135deg, #222, #08411b);
+    color: white;
+    padding: 2rem;
+}
+
+.contenido-con {
+    max-width: 600px;
+    padding: 2rem;
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    animation: latido 1.5s infinite alternate;
+}
+
+.contenido-con img {
+    width: 200px;
+    margin-bottom: 1rem;
+}
+
+.contenido-con h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.contenido-con p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Botón de regreso */
+.btn-volver {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background: #f7b500;
+    color: #222;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.btn-volver:hover {
+    background: #ffcc33;
+}
+
+/* Animación de latido */
+@keyframes latido {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}
+
+.aviso {
+    text-align: center;
+}

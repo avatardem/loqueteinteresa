@@ -1,0 +1,44 @@
+[
+    {
+        "id": "nota1",
+        "titulo": "Trading e inversiones: Parece lejano pero esta a tu alcance",
+        "fecha": "2024-03-05",
+        "imagen": "imagenes/trading.webp",
+        "contenido": "Textos/notas/trading_e_inversiones__parece_lejano,_pero_está_a_tu_alcance.txt"
+    },
+    {
+        "id": "nota2",
+        "titulo": "Estrategias del trading: Descubre tu camino hacia el exito",
+        "fecha": "2024-03-06",
+        "imagen": "imagenes/trading.webp",
+        "contenido": "Textos/notas/estrategias_de_trading__descubre_tu_camino_hacia_el_éxito.txt"
+    },
+    {
+        "id":"nota3",
+        "titulo":"Análisis técnico y fundamental: Dos enfoques para toma de decisiones",
+        "fecha":"2024-03-07",
+        "imagen": "imagenes/trading.webp",
+        "contenido":"Textos/notas/análisis_técnico_y_fundamental__dos_enfoques_para_tomar_decisiones_informadas.txt"
+    },
+    {
+        "id": "nota2",
+        "titulo": "Gestión del riesgo: Protege tus inversiones y mejora tu rendimiento",
+        "fecha": "2024-03-08",
+        "imagen": "imagenes/trading.webp",
+        "contenido": "Textos/notas/gestión_del_riesgo__protege_tus_inversiones_y_mejora_tu_rendimiento.txt"
+    },
+    {
+        "id": "nota2",
+        "titulo": "La importancia de la educación y la mentalidad en las inversiones y en el trading",
+        "fecha": "2024-03-09",
+        "imagen": "imagenes/trading.webp",
+        "contenido": "Textos/notas/la_importancia_de_la_educación_y_la_mentalidad_en_el_trading_y_las_inversiones.txt"
+    },
+    {
+        "id": "nota2",
+        "titulo": "Recursos adicionales para potenciar tus conocimientos en el trading y las inversiones",
+        "fecha": "2024-03-10",
+        "imagen": "imagenes/trading.webp",
+        "contenido": "Textos/notas/recursos_adicionales_para_potenciar_tus_conocimientos_en_trading_y_en_inversiones.txt"
+    }
+]

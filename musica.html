@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoQueTeInteresa</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <div class="toggle-btn" onmouseover="showSidebar()">▶</div>
+    <nav class="sidebar" onmouseleave="hideSidebar()">
+        <div><img src="imagenes/Logo.svg" alt="Logo" width="50"></div>
+
+        <div class="titlebarra">
+            <h2>Lo Que Te Interesa</h2>
+            <h4>Aprende, Conoce, Explora...</h4>
+        </div>
+        <ul class="menu">
+            <li><a href="index.html">INICIO</a></li>
+            <li><a href="mundo-blockchain.html">MUNDO BLOCKCHAIN</a></li>
+            <li><a href="notas.html">NOTAS DE INTERÉS</a></li>
+            <li class="dropdown">
+                <a href="#">CURSOS</a>
+                <ul class="submenu">
+                    <li><a href="cocina.html">Cocina</a></li>
+                    <li><a href="informatica.html">Informática</a></li>
+                    <li><a href="musica.html">Música</a></li>
+                    <li><a href="idiomas.html">Idiomas</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <script>
+        function showSidebar() {
+            document.querySelector('.sidebar').style.left = '0';
+        }
+
+        function hideSidebar() {
+            if (window.innerWidth > 768) {
+                document.querySelector('.sidebar').style.left = '-200px';
+            }
+        }
+    </script>
+    <header>
+        <div class="title">LoQueTeInteresa</div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
+        <div id="coinmarketcap-widget-marquee" coins="1,1027,825,5994,9656,19259,11427,3930,10407,29175" currency="USD"
+            theme="light" transparent="false" show-symbol-logo="true"></div>
+    </header>
+
+    <section class="pagina-construccion">
+        <div class="contenido-con">
+            <img src="imagenes/construccion.webp" alt="Página en Construcción">
+            <h1>¡Estamos trabajando en ello!</h1>
+            <p>Esta sección aún está en desarrollo. Pronto tendrás acceso a contenido increíble.</p>
+            <a href="index.html" class="btn-volver">Volver al inicio</a>
+        </div>
+    </section>
+
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5318611986094737"
+        crossorigin="anonymous"></script>
+    <!-- Horizontal -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5318611986094737" data-ad-slot="6207004791"
+        data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+</body>
+
+</html>

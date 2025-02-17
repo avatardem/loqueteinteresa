@@ -1,0 +1,55 @@
+<p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">¿Que es una Blockchain (Cadena de bloques)?<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Una cadena de bloques es simplemente un libro diario en el cual quedan
+asentadas todas las transacciones que se hicieron sobre la misma, de forma
+permanente y sin poder modificarlas, el sistema es descentralizado porque no
+hay una entidad que sea la que lleve y resguarde el libro, sino que queda
+guardado en cada uno de los equipos que componen la red o que trabajen con la
+red, permitiendo el acceso a cualquier usuario a ver cada una de estas
+transacciones. Cada bloque está compuesto por un número finito de transacciones
+y una vez que se llena se envía o sube a la red para empezar a formar el
+próximo bloque.&nbsp;</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Los mineros (equipos preparados para poder resolver cada
+bloque) son los encargados de confirmar cada transacción y de resolver el
+proceso por el cual cada bloque es cerrado y subido a la red, momento en el
+cual reciben su recompensa, cuanto más potente es el equipo mayor es la
+probabilidad de resolver un bloque, esta forma de minería se llama prueba de
+trabajo (proof of work) es la utilizada por la madre de la criptomonedas,
+Bitcoin y este es el momento cuando el árbol no nos deja ver el bosque,
+nombramos a Bitcoin y ya pensamos en especulación, ganar, ambición y perdemos
+de vista la tecnología por detrás, el verdadero tesoro, LA BLOCKCHAIN.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Hoy en
+día existen otras formas de minería más amenas con el medio ambiente y que
+hacen a las cadenas muchos más rápidas y eficientes, en la red de bitcoin se
+consume mucha energía por la necesidad de potencia que tienen los equipos para
+realizar los cálculos y cada transacción tarda mucho tiempo en resolverse, por
+ejemplo si uno necesita una red pagos rápida esta no sería una opción. Una de
+los nuevos métodos de minería es la prueba de participación (proof of stake) en
+la que se crean pooles de minería, cada usuario participa en ellos dejando sus
+criptos en staking (que es en una especie de plazo fijo) y recibe una
+recompensa a cambio, los pooles con más participación son los que más
+probabilidades en el minado tienen.<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">¿Que es una criptomoneda?<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Una criptomoneda es la moneda nativa de la red o cadena de bloques, cada
+red tiene la suya (Bitcoin (BTC), Ethereum (ETHER), Cardano (ADA), Binance
+(BNB), Solana (SOL), Bitget(BGB) Thundercore (TT) etc) son activos digitales que
+se pueden transaccionar y su valor depende de varios factores, el volumen de
+transacciones, de la cantidad de monedas circulante, de la cantidad de monedas
+en staking, etc. Existen monedas en paridad 1:1 con el dólar llamadas
+stablecoin o monedas estables, como lo son el USDT, USDC, etc.<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Con la llegada de los smarts contracts (contratos digitales) en la red
+ethereum se abrió una posibilidad enorme que es la de poder crear un proyecto
+sobre la red, que tenga su propia moneda, estos se denominan TOKENs, un token
+es la moneda de un proyecto que trabaja sobre una red en particular, por ejemplo,
+Catecoin (proyecto en BSC), Shiba Inu (red ehtereum), CYT(Coinary Token red
+BSC), Guess Token(dentro de la red Thundercore),&nbsp; hoy por hoy con la
+llegada de las crosschain o plataformas de cadena cruzada un proyecto puede
+interactuar entre diferentes redes y un token puede ser transferido entre
+distintas redes también.<o:p></o:p></span></p><p class="MsoNormal">
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Esto fue un pantallazo de lo que es la blockchain, una tecnología que
+apuesta a la descentralización y a la transparencia financiera, manteniendo la
+privacidad, pero todo esto esta muy fresco todavía, por eso, tengan cuidado a
+la hora de invertir, investiguen y edúquense para no caer en estafas.
+Saludos&nbsp;<o:p></o:p></span></p>

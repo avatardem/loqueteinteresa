@@ -1,0 +1,67 @@
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Montserrat Medium&quot;">Para comprar una cripto, una stablecoin o un token,
+debemos crear una cuenta en un exchange o casa de cambio, existen 2 tipos, los
+centralizados CEX y los descentralizados DEX, la diferencia es, que un exchange
+centralizado mantiene en su poder tus monedas como un banco, vos podes comprar,
+vender, transferirlas, lo que quieras pero si el exchange te lo permite, en
+cambio para poder utilizar un DEX debemos de tener creada una billetera con la
+cual vamos a tener siempre las monedas en nuestro poder y no correr el riesgo
+que por ejemplo un CEX cierre, desaparezca y con el nuestras monedas, aunque en
+la descentralización existen otro tipo de riesgos, como por ejemplo, que
+olvidemos nuestras contraseñas y la billetera sea irrecuperable (se han perdido
+millones de monedas por este tema) y predominan las plataformas truchas en la
+que te pueden estafar al conectar tu billetera y firmar algún contrato en el
+que, sin querer, les des permiso para extraer tus fondos, y de esta forma te
+roban tus monedas, hay que tener mucho cuidado.</span></p><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Montserrat Medium&quot;">Crear una cuenta en un Exchange
+centralizado, es sencillo, pero si queremos utilizar a fondo todos los
+servicios debemos pasar varios pasos de verificación, una vez creada vamos a
+poder ingresar dinero a través del sistema P2P, tarjeta de crédito,
+transferencia o el método que permita el Exchange. En el sistema P2P (persona a
+persona), debemos tener mucho cuidado, hacer intercambios con usuarios
+verificados que tengan un buen porcentaje de transacciones realizadas con
+éxito, ya que vamos a tener que transferir dinero por fuera de la plataforma, por
+ejemplo queremos comprar 100 USDT, vamos a hacerle el pedido a un usuario de la
+lista, la plataforma va actuar de arbitro va a congelar los USDT del usuario y
+vos vas a transferirle por el método elegido (transferencia bancaria,
+mercadopago, uala, paypal, etc) una vez que le confirmas al usuario que le
+enviaste el dinero y el usuario confirma la recepción, la plataforma desbloquea
+los USDT y te los transfiere. Hay que tener mucho cuidado de utilizar la cuenta
+que el usuario tiene configurada en la plataforma, nunca transfieras a otra
+cuenta que no sea esta aunque te lo pidan porque no vas a poder presentar, por ejemplo, una prueba
+como el recibo de la transferencia y si surge algún problema, al no corresponder
+las cuentas asociadas, la plataforma no va a poder ayudarte a resolverlo.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Montserrat Medium&quot;">En Argentina tenemos plataformas como Lemon Cash, Ripio,
+Bitso, Satoshi Tango, etc, que nos permiten transferirles pesos de una cuenta
+bancaria o de alguna Fintech (Mercadopago, Uala, etc) y ya podemos comprar,
+cada cual tiene sus comisiones, pero de esta forma no usaríamos el método P2P
+si es que no le tenemos confianza. Y de estas plataformas podemos transferir
+nuestras Criptos a otras plataformas o a nuestras billeteras propias. Es
+importante conocer las regulaciones del país para comprar este tipo de activo,
+hoy por hoy ya se están tomando las criptos como un activo financiero, como lo
+es una acción de una empresa y creo que es lógico, estos no se deberían omitir
+de las declaraciones juradas y obviamente vamos a tener que pagar los impuestos
+correspondientes.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Montserrat Medium&quot;">Es muy importante que al transferir tokens lo hagamos
+dentro de la cadena de bloques correspondiente, si transferimos de una
+dirección de una red especifica la dirección de recepción debe ser dentro de la
+misma red porque de lo contrario podemos perder nuestras monedas, de una
+dirección dentro de la red ETH a otra dentro de la misma red, como lo sabemos a
+la hora de hacer la transacción en la plataforma nos va a preguntar si la
+dirección a la que se envía es de determinada red, por ejemplo en la red BEP20
+de la red BSC solo se pueden recibir token del tipo BEP20 si enviamos un token
+de la red tron TRC20 podemos perderlo, debemos tener cuidado de elegir bien la
+red, para intercambiar token entre redes debemos acudir a plataformas de red
+cruzada que permiten hacerlo.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Montserrat Medium&quot;">En fin es un mundo nuevo, el que seguramente deba madurar,
+darle una vuelta de rosca al uso de estos activos, que no sea solo algo
+especulativo y que a largo plazo tiene un gran futuro, solo debemos tener
+cuidado los lugares que elegimos para realizar nuestras inversiones, que los
+exchange que usemos sean de confianza, y por lo tanto debemos investigar mucho
+antes de realizar algún movimiento. Sin miedo pero con cuidado. Saludos.<o:p></o:p></span></p>

@@ -1,0 +1,51 @@
+[
+    {
+        "id": "articulo1",
+        "titulo": "Atómico 3. Un proyecto con respaldo real",
+        "fecha": "2025-02-05",
+        "imagen": "imagenes/Atomico3.png",
+        "contenido": "Textos/articulos/atómico_3._un_proyecto_con_respaldo_real.txt"
+    },
+    {
+        "id": "articulo2",
+        "titulo": "Blockchain en Argentina. ¿Puede crear soluciones?",
+        "fecha": "2024-02-05",
+        "imagen": "imagenes/bitcoinmoneda.jpg",
+        "contenido": "Textos/articulos/blockchain_en_argentina._¿puede_crear_soluciones_.txt"
+    },
+    {
+        "id":"articulo3",
+        "titulo":"Safetrees. Un proyecto con impacto medioambiental.",
+        "fecha":"2025-01-05",
+        "imagen": "imagenes/safetrees-3.webp",
+        "contenido":"Textos/articulos/safetrees._un_proyecto_con_impacto_medioambiental..txt"
+    },
+    {
+        "id":"articulo4",
+        "titulo":"De la innovación a la regulación: cómo la norma ISO 20022 y la tecnología blockchain están impulsando la adopción de criptomonedas",
+        "fecha":"2023-03-17",
+        "imagen": "imagenes/iso20022.webp",
+        "contenido":"Textos/articulos/_de_la_innovación_a_la_regulación__cómo_la_norma_iso_20022_y_la_tecnología_blockchain_están_impulsando_la_adopción_de_criptomonedas_.txt"
+    },
+    {
+        "id":"articulo5",
+        "titulo":"¿Blockchain y criptomonedas?",
+        "fecha":"2022-12-24",
+        "imagen": "imagenes/5cripto.webp",
+        "contenido":"Textos/articulos/¿blockchain_y_criptomonedas_.txt"
+    },
+    {
+        "id":"articulo6",
+        "titulo":"Exchange o casa de cambio",
+        "fecha":"2022-12-27",
+        "imagen": "imagenes/cex y dex.webp",
+        "contenido":"Textos/articulos/exchanges.txt"
+    },
+    {
+        "id":"articulo7",
+        "titulo":"STAKING, ingresos pasivos en la blockchain",
+        "fecha":"2023-06-19",
+        "imagen": "imagenes/STAKING.webp",
+        "contenido":"Textos/articulos/staking,_ingresos_pasivos_en_la_blockchain.txt"
+    }
+] 

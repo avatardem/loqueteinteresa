@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoQueTeInteresa</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <div class="toggle-btn" onmouseover="showSidebar()">▶</div>
+    <nav class="sidebar" onmouseleave="hideSidebar()">
+        <div><img src="imagenes/Logo.svg" alt="Logo" width="50"></div>
+
+        <div class="titlebarra">
+            <h2>Lo Que Te Interesa</h2>
+            <h4>Aprende, Conoce, Explora...</h4>
+        </div>
+        <ul class="menu">
+            <li><a href="index.html">INICIO</a></li>
+            <li><a href="mundo-blockchain.html">MUNDO BLOCKCHAIN</a></li>
+            <li><a href="notas.html">NOTAS DE INTERÉS</a></li>
+            <li class="dropdown">
+                <a href="#">CURSOS</a>
+                <ul class="submenu">
+                    <li><a href="cocina.html">Cocina</a></li>
+                    <li><a href="informatica.html">Informática</a></li>
+                    <li><a href="musica.html">Música</a></li>
+                    <li><a href="idiomas.html">Idiomas</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <header>
+        <div class="title">LoQueTeInteresa</div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
+        <div id="coinmarketcap-widget-marquee" coins="1,1027,825,5994,9656,19259,11427,3930,10407,29175" currency="USD"
+            theme="light" transparent="false" show-symbol-logo="true"></div>
+    </header>
+    <main>
+
+        <h1 class=titulo id="titulo"></h1>
+        <h3 id="fecha"></h3>
+        <img class=imgart id="imagen" src="" alt="Imagen del artículo" width="600">
+        <p class=contenido id="contenido"></p>
+
+
+
+       
+
+
+        <div> <!--  PUBLICIDAD -->
+            <script async=""
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5318611986094737"
+                crossorigin="anonymous"></script>
+            <!-- Horizontal -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5318611986094737"
+                data-ad-slot="6207004791" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            <!--FIN DE PUBLICIDAD-->
+        </div>
+        <div>
+            <a href="https://www.binance.com/es-AR/activity/referral-entry/CPA?ref=CPA_00R4PUHYW2 " target="_blank"><img
+                    src="imagenes/binance.webp" width="800" style="margin-top: 4rem;"></a>
+        </div>
+    </main>
+    <script src="js/scriptbarra.js"></script>
+    <script src="js/scriptarticulos.js"></script>
+</body>
+
+</html>

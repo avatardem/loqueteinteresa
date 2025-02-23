@@ -417,7 +417,11 @@ main a {
         font-size: 1rem;
         width: 100%;
     }
-
+     .imgart {
+        width: 5rem;
+        height: auto;
+        margin: 0px;
+    }
     .sidebar {
         width: 15rem;
     }
@@ -441,10 +445,10 @@ main a {
         width: 100%;
     }
     .imgart {
-    width: 5rem;
-    height: auto;
-    margin: 0px;
-}
+        width: 5rem;
+        height: auto;
+        margin: 0px;
+    }
     }
     .toggle-btn {
         padding: 8px 12px;

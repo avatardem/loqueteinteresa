@@ -449,7 +449,7 @@ main a {
         height: auto;
         margin: 0px;
     }
-    }
+    
     .toggle-btn {
         padding: 8px 12px;
     }
@@ -457,4 +457,4 @@ main a {
     .tarjeta {
         max-width: 280px;
     }
-
+}

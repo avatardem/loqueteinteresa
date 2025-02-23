@@ -8,13 +8,6 @@ body {
     background-color: #ffffff;
 }
 
-/* .montserrat-letra {
-    font-family: "Montserrat", sans-serif !important;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-    } */
-
 html,
 body {
     overflow-x: hidden !important;
@@ -67,17 +60,11 @@ header {
     /* Permite hacer scroll si hay muchos enlaces */
     transition: left 0.3s ease-in-out;
     /* Para animar la apertura/cierre */
-
-
 }
-
-
 
 .sidebar.active {
     left: 0;
 }
-
-
 .sidebar img {
     width: 6.25rem;
     height: auto;
@@ -174,10 +161,6 @@ a:active {
     background: #093d1b;
     box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.5);
 }
-#fecha {
-    text-align: right !important;
-}
-
 
 main {
     margin: 5rem;
@@ -194,7 +177,7 @@ main {
 #fecha {
     font-size: clamp(0.5rem, 1.5vw, 1rem);
     width: 60%;
-
+    text-align: right !important;
 }
 
 

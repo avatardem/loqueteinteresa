@@ -443,6 +443,7 @@ main a {
     .titulo {
         font-size: 1.2rem;
     }
+    
 
     .contenido {
         font-size: 0.9rem;
@@ -451,6 +452,12 @@ main a {
     .sidebar {
         width: 100%;
     }
+    .col-md-6 mb-4 {
+        width: 5rem;
+        height: auto;
+        margin: 0px;
+    }
+    
     .imgart {
         width: 5rem;
         height: auto;

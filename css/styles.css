@@ -463,7 +463,10 @@ main a {
         height: auto;
         margin: 0px;
     }
-    
+
+    .img-fluid rounded{ 
+        width: fit-content;
+     }
     .toggle-btn {
         padding: 8px 12px;
     }

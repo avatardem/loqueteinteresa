@@ -394,6 +394,9 @@ main a {
         transform: scale(1.05);
     }
 }
+.publicidad {
+    max-width: 600px;
+    }
 
 .aviso {
     text-align: center;
@@ -429,6 +432,9 @@ main a {
     .tarjeta {
         max-width: 300px;
     }
+    .publicidad {
+    max-width: 70%;
+    }
 }
 
 /* 📱 Para pantallas menores a 480px */
@@ -461,5 +467,8 @@ main a {
        max-width: 280px;
        text-align: center;
 }
+     .publicidad {
+    max-width: 70%;
+    }
 
 }

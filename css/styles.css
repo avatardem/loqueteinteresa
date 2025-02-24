@@ -395,6 +395,7 @@ main a {
     }
 }
 .publicidad {
+    margin-top: 4rem;
     max-width: 600px;
     }
 
@@ -421,7 +422,7 @@ main a {
         width: 100%;
     }
      .imgart {
-        width: 5rem;
+        width: 30vw;
         height: auto;
         margin: 0px;
     }

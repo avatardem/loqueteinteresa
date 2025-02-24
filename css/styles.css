@@ -457,4 +457,9 @@ main a {
     .tarjeta {
         max-width: 280px;
     }
+    .aviso {
+       max-width: 280px;
+       text-align: center;
+}
+
 }

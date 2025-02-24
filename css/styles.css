@@ -468,7 +468,7 @@ main a {
        text-align: center;
 }
      .publicidad {
-    max-width: 70%;
+       width: 60%;
     }
 
 }

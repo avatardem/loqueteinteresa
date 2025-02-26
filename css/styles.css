@@ -188,6 +188,11 @@ main a {
     margin: 1rem;
 }
 
+.imgart {
+        width: 25rem;
+        height: auto;
+        margin: 0px;
+    }
 
 .titulo {
     font-size: 2rem;
@@ -207,14 +212,6 @@ main a {
     flex-wrap: wrap;
     gap: 15px; /* Espacio entre cards */
 } 
-
-.imgart {
-        width: 25rem;
-        height: auto;
-        margin: 0px;
-    }
-
-
 
 .card {
     display: flex;
@@ -469,7 +466,8 @@ main a {
     .sidebar {
         width: 100%;
     }
-        .imgart {
+    
+    .imgart {
         width: 5rem;
         height: auto;
         margin: 0px;

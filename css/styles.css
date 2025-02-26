@@ -462,7 +462,10 @@ main a {
     .sidebar {
         width: 100%;
     }
-    
+    .toggle-btn {
+    position: fixed;
+    left: 0;
+    top: 0%;
     .imgart {
         width: 5rem;
         height: auto;

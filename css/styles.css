@@ -462,11 +462,9 @@ main a {
     .sidebar {
         width: 100%;
     }
-    .toggle-btn {
-    position: fixed;
-    left: 0;
-    top: 0%;
-    .imgart {
+  
+    
+   .imgart {
         width: 5rem;
         height: auto;
         margin: 0px;
@@ -475,6 +473,9 @@ main a {
 
     .toggle-btn {
         padding: 8px 12px;
+        position: fixed;
+        left: 0;
+        top: 0%;
     }
 
     .tarjeta {

@@ -206,18 +206,29 @@ main a {
     /*font-size: 2rem;*/
     width: 60%;
 }
+
+#lista-articulos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* Espacio entre cards */
+}
+
+
 .card {
     display: flex;
     font-weight: 500;
     flex-direction: column;
     justify-content: center;
-    width: 650px;
-    height: 300px; /* Altura fija para todas las cards */
+    max-width: 100%;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
     height: 100%; /* Para que todas las cards tengan la misma altura */
+}
+
+.card .row {
+    flex-grow: 1;
 }
 
 .card-body {
@@ -453,21 +464,13 @@ main a {
     .sidebar {
         width: 100%;
     }
-    .col-md-6 mb-4 {
-        width: 5rem;
-        height: auto;
-        margin: 0px;
-    }
-    
+       
     .imgart {
         width: 5rem;
         height: auto;
         margin: 0px;
     }
 
-    .img-fluid rounded{ 
-        width: fit-content;
-     }
     .toggle-btn {
         padding: 8px 12px;
     }

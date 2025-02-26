@@ -217,6 +217,7 @@ main a {
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
+    height: 100%; /* Para que todas las cards tengan la misma altura */
 }
 
 .card-body {
@@ -240,11 +241,11 @@ main a {
 }
 
 .card img {
-    resize: both;
-    object-fit: cover;
-    height: 100%;
+    height: auto;
+    width: 100%;
+    object-fit: cover; /* Ajusta la imagen sin deformarla */
 }
-
+ 
 .resumen {
     font-size: 0.9rem;
     color: #555;

@@ -405,7 +405,7 @@ main a {
 }
 .publicidad {
     margin-top: 4rem;
-    max-width: 600px;
+    max-width: 100%;
     }
 
 .aviso {
@@ -429,6 +429,11 @@ main a {
     .contenido {
         font-size: 1rem;
         width: 100%;
+    }
+     .imgart {
+        width: 30vw;
+        height: auto;
+        margin: 0px;
     }
     
     .sidebar {
@@ -457,7 +462,11 @@ main a {
     .sidebar {
         width: 100%;
     }
-       
+        .imgart {
+        width: 20vw;
+        height: auto;
+        margin: 0px;
+    }
   
 
     .toggle-btn {

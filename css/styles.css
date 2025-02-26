@@ -228,10 +228,6 @@ main a {
     
 }
 
-.card .row {
-    flex-grow: 1;
-}
-
 .card-body {
     flex-grow: 1; /* Para que el contenido se distribuya uniformemente */
     display: flex;

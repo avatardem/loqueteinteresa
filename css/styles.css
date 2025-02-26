@@ -206,7 +206,14 @@ main a {
     display: flex;
     flex-wrap: wrap;
     gap: 15px; /* Espacio entre cards */
-}
+} 
+
+.imgart {
+        width: 25rem;
+        height: auto;
+        margin: 0px;
+    }
+
 
 
 .card {
@@ -220,7 +227,7 @@ main a {
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
     height: 100%; /* Para que todas las cards tengan la misma altura */
-    padding: 10px;
+    
     
 }
 
@@ -463,7 +470,7 @@ main a {
         width: 100%;
     }
         .imgart {
-        width: 20vw;
+        width: 5rem;
         height: auto;
         margin: 0px;
     }

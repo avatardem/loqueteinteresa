@@ -225,6 +225,7 @@ main a {
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
     height: 100%; /* Para que todas las cards tengan la misma altura */
+    padding: 10px;
 }
 
 .card .row {

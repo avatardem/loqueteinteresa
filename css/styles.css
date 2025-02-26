@@ -473,11 +473,12 @@ main a {
 
     .toggle-btn {
         padding: 8px 12px;
-        position: fixed;
-        left: 0;
-        top: 10%;
+        left: -8px;
     }
-
+    
+     .toggle-btn:hover {
+        left: 0;
+    }
     .tarjeta {
         max-width: 280px;
     }

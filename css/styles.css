@@ -218,7 +218,7 @@ main a {
     display: flex;
     font-weight: 500;
     flex-direction: column;
-    justify-content: center;
+    justify-content: justify-content: space-between;;
     max-width: 100%;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -226,6 +226,7 @@ main a {
     transition: transform 0.3s ease-in-out;
     height: 100%; /* Para que todas las cards tengan la misma altura */
     padding: 10px;
+    
 }
 
 .card .row {

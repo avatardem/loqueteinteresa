@@ -218,7 +218,7 @@ main a {
     display: flex;
     font-weight: 500;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     max-width: 100%;
     border: 1px solid #ddd;
     border-radius: 10px;

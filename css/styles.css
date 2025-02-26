@@ -487,7 +487,8 @@ main a {
        text-align: center;
 }
      .publicidad {
-       width: 60vw;
+         
+       width: 60%;
     }
 
 }

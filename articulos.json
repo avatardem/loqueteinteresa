@@ -47,5 +47,12 @@
         "fecha":"2023-06-19",
         "imagen": "imagenes/STAKING.webp",
         "contenido":"Textos/articulos/staking,_ingresos_pasivos_en_la_blockchain.txt"
+    },
+    {
+        "id":"articulo8",
+        "titulo":"Pi Network: Un proyecto, un proceso y el futuro",
+        "fecha":"2025-02-28",
+        "imagen": "imagenes/pi.webp",
+        "contenido":"Textos/articulos/pi_network__un_proyecto,_un_proceso,_y_el_futuro..txt"
     }
 ] 

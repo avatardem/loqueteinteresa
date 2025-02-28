@@ -404,7 +404,7 @@ main a {
     }
 }
 .publicidad {
-    margin-top: 4rem;
+    margin-top: 2rem;
     max-width: 100%;
     }
 
@@ -415,7 +415,7 @@ main a {
 
 /* RESPONSIVE */
 
-/* 📱 Para pantallas menores a 768px */
+/* Para pantallas menores a 768px */
 @media (max-width: 768px) {
     main {
         width: 90%;
@@ -448,7 +448,7 @@ main a {
     }
 }
 
-/* 📱 Para pantallas menores a 480px */
+/* Para pantallas menores a 480px */
 @media (max-width: 480px) {
     .titulo {
         font-size: 1.2rem;

@@ -473,7 +473,7 @@ main a {
 
     .toggle-btn {
         padding: 8px 12px;
-        left: -12px;
+        left: -20px;
     }
     
      .toggle-btn:hover {
@@ -487,7 +487,6 @@ main a {
        text-align: center;
 }
      .publicidad {
-         
        width: 60%;
     }
 

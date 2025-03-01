@@ -344,10 +344,10 @@ main a {
     display: flex;
     justify-content: center;
     align-items: center;
-    # height: 100vh;
+    height: 100vh;
     text-align: center;
     background: linear-gradient(135deg, #222, #08411b);
-    color: blue;
+    color: white;
     padding: 2rem;
 }
 

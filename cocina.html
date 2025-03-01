@@ -58,6 +58,17 @@
             </li>
         </ul>
     </nav>
+       <script>
+        function showSidebar() {
+            document.querySelector('.sidebar').style.left = '0';
+        }
+
+        function hideSidebar() {
+            if (window.innerWidth > 768) {
+                document.querySelector('.sidebar').style.left = '-200px';
+            }
+        }
+    </script>
        <main> 
           <section class="pagina-construccion">
               <div class="contenido-con">

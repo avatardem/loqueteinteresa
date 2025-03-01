@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
             data.forEach(articulo => {
                 // Crear la card con Bootstrap
                 const card = document.createElement("div");
-               card.className = "col-12 col-md-6 mb-4"; // Tarjetas de 2 columnas en pantallas grandes
+               card.className = "col-md-6 mb-4"; // Tarjetas de 2 columnas en pantallas grandes
 
                 card.innerHTML = `
 

@@ -164,14 +164,13 @@ a:active {
 
 main {
     margin: 5rem;
-
     display: flex;
     align-items: center;
     /* text-align: center; */
     flex-direction: column;
     color: #000000;
     font-size: large;
-    font-weight: 200;
+    font-weight: 500;
 }
 
 #fecha {
@@ -181,10 +180,8 @@ main {
 }
 
 
-
 main a {
     display: block;
-
     margin: 1rem;
 }
 
@@ -487,7 +484,7 @@ main a {
        text-align: center;
 }
      .publicidad {
-       width: 60%;
+       width: 50%;
     }
 
 }

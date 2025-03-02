@@ -349,6 +349,7 @@ main a {
     background: linear-gradient(135deg, #222, #08411b);
     color: white;
     padding: 2rem;
+    z-index:0;
 }
 
 .contenido-con {

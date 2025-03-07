@@ -23,7 +23,7 @@
 </head>
 
 <body>
-    <div class="toggle-btn" onmouseover="showSidebar()">▶</div>
+      <div class="toggle-btn" onmouseover="showSidebar()">▶</div>
     <nav class="sidebar" onmouseleave="hideSidebar()">
         <div><img src="imagenes/Logo.svg" alt="Logo" width="50"></div>
 
@@ -47,17 +47,6 @@
         </ul>
     </nav>
 
-    <script>
-        function showSidebar() {
-            document.querySelector('.sidebar').style.left = '0';
-        }
-
-        function hideSidebar() {
-            if (window.innerWidth > 768) {
-                document.querySelector('.sidebar').style.left = '-200px';
-            }
-        }
-    </script>
     <header>
         <div class="title">LoQueTeInteresa</div>
         <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
@@ -123,7 +112,7 @@
     </script>
  FIN DE PUBLICIDAD-->
 
-
+    <script src=js/scriptbarra.js></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

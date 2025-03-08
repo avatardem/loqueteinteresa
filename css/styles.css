@@ -251,10 +251,7 @@ main a {
     object-fit: cover; /* Ajusta la imagen sin deformarla */
 }
 
-.card-image-top {
-    max-height: 200px;
-}
- 
+
 .resumen {
     font-size: 0.9rem;
     color: #555;

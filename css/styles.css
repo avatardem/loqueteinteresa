@@ -1,86 +1,83 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-body {
-    width: 100vw;
+/* === FUENTE === */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+
+/* === REGLAS GENERALES === */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
     margin: 0;
-    font-family: 'Montserrat', sans-serif;
-    display: inline-block;
+    padding: 0;
+    font-family: "Nunito Sans", sans-serif;
     background-color: #ffffff;
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    box-sizing: border-box;
 }
 
-html,
-body {
-    overflow-x: hidden !important;
+h1, h2, h3, h4 {
+    font-weight: 700;
 }
 
+p, a, li, span {
+    font-weight: 400;
+}
+
+a, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* === HEADER === */
 header {
     width: 100%;
-    display: inline;
-    align-items: center;
     text-align: center;
-    background-color: #0c4e22;
+    background: #0f3d3e;
 }
 
 .title {
     color: white;
-    background-color: #0c4e22;
-    /* animation: scrolling 10s linear infinite;*/
+    background: #0f3d3e;
 }
-
-/* @keyframes scrolling {
-    0% {transform: translateX(10%);}
-    100% {transform: translateX(-100%);}
-} */
 
 #coinmarketcap-widget-marquee {
     margin: 0 auto;
-    /* display: block; */
-    background-color: #0c4e22;
-    width: 60%;
+    background-color: white;
+    width: 100%;
     overflow: hidden;
 }
 
-/* Barra lateral en pantallas grandes */
+/* === SIDEBAR === */
 .sidebar {
     position: fixed;
     left: -200%;
     top: 0;
     width: 25rem;
-    height: 100vh !important;
-    background: #08411b;
-    color: white;
+    height: 100vh;
+    background: #115047;
+    color: #f3dca3;
     padding-top: 1.25rem;
-    transition: left 0.3s;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    z-index: 1050 !important;
+    z-index: 1050;
     overflow-y: auto;
-    /* Permite hacer scroll si hay muchos enlaces */
     transition: left 0.3s ease-in-out;
-    /* Para animar la apertura/cierre */
 }
 
 .sidebar.active {
     left: 0;
 }
+
 .sidebar img {
     width: 6.25rem;
-    height: auto;
     margin-bottom: 2rem;
-}
-
-.menu {
-    font-size: 1.5rem;
-    margin-top: 5rem;
-}
-
-a,
-a:hover,
-a:active {
-    text-decoration: none;
-    color: inherit;
 }
 
 .sidebar ul {
@@ -88,14 +85,13 @@ a:active {
     padding: 0;
 }
 
-
 .sidebar ul li {
     padding: 0.935rem;
     cursor: pointer;
 }
 
 .sidebar ul li:hover {
-    background: #093d1b;
+    background: #0f3d3e;
 }
 
 .dropdown {
@@ -107,89 +103,61 @@ a:active {
     position: absolute;
     left: 25%;
     top: 100%;
-    background: #0c4e22;
+    background: #0f3d3e;
     list-style: none;
     padding: 0;
     margin: 0;
     width: 150px;
 }
 
-.submenu li {
-    padding: 10px;
-    cursor: pointer;
-}
-
-.submenu li:hover {
-    background: #666;
-}
-
-/* Mostrar submenú al pasar el mouse */
 .dropdown:hover .submenu {
     display: block;
 }
 
-/* .toggle-btn2 {
-    display: none;
-} */
+/* === BOTÓN SIDEBAR === */
 .toggle-btn {
     position: fixed;
     left: 0;
     top: 50%;
-    background: #08411b;
+    background: #115147;
     color: white;
     cursor: pointer;
-    z-index: 1050 !important;
+    z-index: 1050;
     transform: translateY(-50%);
     padding: 10px 15px;
     border-radius: 0 10px 10px 0;
     transition: all 0.3s ease-in-out;
-    /* Transición suave */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
-    /* Sombra inicial */
 }
 
 .toggle-btn:hover {
-    background: #0a5d26;
-    /* Color más claro */
+    background: #0f3d3e;
     box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.4);
-    /* Sombra más fuerte */
     transform: translateY(-50%) scale(1.05);
-    /* Pequeño zoom */
 }
 
-.sidebar.active+.toggle-btn {
+.sidebar.active + .toggle-btn {
     background: #093d1b;
-    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.5);
 }
 
+/* === CONTENIDO PRINCIPAL === */
 main {
-    margin: 5rem;
+    margin: 5rem auto;
     display: flex;
-    align-items: center;
-    /* text-align: center; */
     flex-direction: column;
-    color: #000000;
+    align-items: center;
     font-size: large;
-    font-weight: 500;
+    font-weight: 200;
+    color: #000000;
+    width: 90%;
+    max-width: 1000px;
 }
 
 #fecha {
     font-size: clamp(0.5rem, 1.5vw, 1rem);
     width: 60%;
-    text-align: right !important;
+    text-align: right;
 }
-
-
-main a {
-    display: block;
-    margin: 1rem;
-}
-
-.imgart {
-        width: 25rem;
-        height: auto;
-        margin: 0px;
-    }
 
 .titulo {
     font-size: 2rem;
@@ -198,92 +166,105 @@ main a {
 }
 
 .contenido {
-    align-items: center;
     text-align: justify;
-    /*font-size: 2rem;*/
-    width: 60%;
-}
-
-#lista-articulos {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px; /* Espacio entre cards */
-} 
-
-.card {
-    display: flex;
-    font-weight: 500;
-    flex-direction: column;
-    justify-content: center;
-    max-width: 100%;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.3s ease-in-out;
-    height: 100%; /* Para que todas las cards tengan la misma altura */
-    
-    
-}
-
-.card-body {
-    flex-grow: 1; /* Para que el contenido se distribuya uniformemente */
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 10px;
-    text-align: center;
-}
-
-.card p {
-    flex-grow: 1; /* Hace que los textos crezcan de manera uniforme */
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-
-.card:hover {
-    transform: scale(1.02);
-}
-
-.card img {
-    height: auto;
     width: 100%;
-    object-fit: cover; /* Ajusta la imagen sin deformarla */
 }
 
-
-.resumen {
-    font-size: 0.9rem;
-    color: #555;
-}
-
- .inicio {
+/* === SECCIÓN ARTÍCULOS === */
+.ultimos_articulos {
+    width: 100vw;
+    background: #0f3d3e;
+    padding: 40px 0;
+    box-sizing: border-box;
+    color: white;
     text-align: center;
-    padding: 2rem;
 }
 
+.ultimos_articulos h2 {
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
 
-.presentacion {
-    margin-top: 2rem;
+/* Artículo principal */
+.articulo-principal {
     max-width: 800px;
-    margin: auto;
-    padding: 1.5rem;
-    background: #f9f9f9;
-    border-radius: 10px;
-} 
+    margin: 0 auto;
+    text-align: center;
+}
 
+.articulo-principal img {
+    width: 100%;
+    height: 380px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.articulo-principal h3 {
+    margin-top: 15px;
+    font-size: 1.9rem;
+}
+
+.articulo-principal p {
+    margin-top: 10px;
+    font-size: 1.05rem;
+    opacity: 0.9;
+}
+
+/* Artículos secundarios */
+.articulos-secundarios {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin-top: 35px;
+}
+
+.articulo-mini {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255,255,255,0.07);
+    padding: 12px 14px;
+    border-radius: 10px;
+    width: 290px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.articulo-mini:hover {
+    background: rgba(255,255,255,0.15);
+    transform: translateY(-4px);
+}
+
+.articulo-mini img {
+    width: 95px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.articulo-mini h4 {
+    margin: 0;
+    font-size: 1.05rem;
+    color: #ffffff;
+}
+
+/* === TARJETAS === */
 .tarjetas-container {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
     padding: 2rem;
+    width: 100%;
+    background: #0f3d3e;
 }
 
-/* Tarjetas más grandes */
 .tarjeta {
-    width: 400px; /* Más grandes */
-    background: linear-gradient(135deg, #08411b, #0a5826);
+    width: 100%;
+    max-width: 380px;
+    background: linear-gradient(135deg, #0f3d3e, #115047);
+    color: #f3dca3;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
@@ -292,33 +273,23 @@ main a {
     transition: transform 0.3s, background 0.5s ease-in-out;
 }
 
-/* Imagen dentro de la tarjeta */
 .tarjeta img {
     width: 100%;
-    height: 220px;
+    height: 180px;
     object-fit: cover;
     border-radius: 15px 15px 0 0;
 }
 
-/* Contenido de la tarjeta */
-.tarjeta-contenido {
-    padding: 1.5rem;
-    color: white;
-}
-
-/* Títulos */
 .tarjeta h1 {
     font-size: 1.8rem;
     margin-bottom: 0.5rem;
 }
 
-/* Texto */
 .tarjeta p {
     font-size: 1.1rem;
     color: #d4f8e8;
 }
 
-/* Botón */
 .tarjeta .btn {
     display: inline-block;
     background: #f7b500;
@@ -326,7 +297,6 @@ main a {
     padding: 0.7rem 1.5rem;
     margin-top: 10px;
     border-radius: 5px;
-    text-decoration: none;
     font-weight: bold;
     transition: background 0.3s;
 }
@@ -335,10 +305,118 @@ main a {
     background: #ffcc33;
 }
 
-/* Animación de hover */
 .tarjeta:hover {
     transform: scale(1.05);
-    background: linear-gradient(135deg, #0a5826, #127b3e);
+    background: linear-gradient(135deg, #145151, #1a6b60);
+}
+
+.presentacion {
+    text-align: center;
+}
+
+.mipublicidad {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem;
+    width: 100%;
+    background: #0f3d3e;
+}
+
+.publi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+}
+  
+
+.publi img {
+    width: 100%;
+    object-fit: cover;
+ }
+ 
+#pi {
+    background:  #563680;
+}
+
+#binance {
+    background-color: black;
+}
+
+#bitget {
+    background-color: rgb(0,240,255);
+}
+
+
+
+
+/* === FOOTER === */
+footer {
+    background-color: #0f3d3e;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: auto;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.redes {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.social-item a img {
+    width: 32px;
+    transition: 0.3s;
+}
+
+.social-item a img:hover {
+    transform: scale(1.15);
+}
+
+.derechos {
+    width: 100vw;
+    background: #071a1f;
+    color: white;
+    padding: 0.5rem 0;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+/* === IMÁGENES Y SECCIONES UNIVERSALES === */
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+
+section, div {
+    box-sizing: border-box;
+}
+
+.adsense-container {
+    margin: 2rem auto;
+    text-align: center;
 }
 
 .pagina-construccion {
@@ -402,23 +480,15 @@ main a {
         transform: scale(1.05);
     }
 }
-.publicidad {
-    margin-top: 2rem;
-    max-width: 100%;
-    }
 
 .aviso {
     text-align: center;
 }
-
-
-/* RESPONSIVE */
-
-/* Para pantallas menores a 768px */
+/* === RESPONSIVE === */
 @media (max-width: 768px) {
     main {
-        width: 90%;
         margin: 2rem auto;
+        width: 95%;
     }
 
     .titulo {
@@ -429,64 +499,45 @@ main a {
         font-size: 1rem;
         width: 100%;
     }
-     .imgart {
-        width: 30vw;
+
+    .articulo-principal img {
         height: auto;
-        margin: 0px;
-    }
-    
-    .sidebar {
-        width: 15rem;
+        max-height: 250px;
     }
 
-    .tarjeta {
-        max-width: 300px;
+    .articulo-mini {
+        width: 100%;
+        max-width: 320px;
     }
-    .publicidad {
-    max-width: 70%;
+
+    .tarjeta img {
+        height: 160px;
+    }
+
+    .sidebar {
+        width: 85%;
+        left: -100%;
+    }
+
+    .sidebar.active {
+        left: 0;
     }
 }
 
-/* Para pantallas menores a 480px */
 @media (max-width: 480px) {
     .titulo {
         font-size: 1.2rem;
     }
-    
 
     .contenido {
         font-size: 0.9rem;
     }
 
-    .sidebar {
-        width: 100%;
+    .tarjeta img {
+        height: 150px;
     }
-  
-    
-   .imgart {
-        width: 5rem;
-        height: auto;
-        margin: 0px;
-    }
-  
 
     .toggle-btn {
         padding: 8px 12px;
-        left: -20px;
     }
-    
-     .toggle-btn:hover {
-        left: 0;
-    }
-    .tarjeta {
-        max-width: 280px;
-    }
-    .aviso {
-       max-width: 280px;
-       text-align: center;
-}
-     .publicidad {
-       width: 50%;
-    }
-
 }

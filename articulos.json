@@ -54,5 +54,13 @@
         "fecha":"2025-02-28",
         "imagen": "imagenes/pi.webp",
         "contenido":"Textos/articulos/pi_network__un_proyecto,_un_proceso,_y_el_futuro..txt"
+    },
+    
+    {
+        "id":"articulo9",
+        "titulo":"Vitalik Buterin vuelve a Argentina: recibirá una distinción y participará del DevConnect 2025",
+        "fecha":"2025-11-12",
+        "imagen": "imagenes/devconnect2025.png",
+        "contenido":"Textos/articulos/vitalik_buterin_vuelve_a_argentina__recibirá_una_distinción_y_participará_del_devconnect_2025.txt"
     }
 ] 

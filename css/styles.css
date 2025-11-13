@@ -577,3 +577,14 @@ section, div {
         padding: 8px 12px;
     }
 }
+
+/* overrides */
+
+/* Forzar que .resaltar dentro del contenedor del artículo use color blanco */
+#articulo-principal .resaltar,
+#articulo-principal .resaltar * {
+  color: #ffffff !important;
+  /* si hay <i>, <em>, <strong>, svg, etc. nos aseguramos que hereden */
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}

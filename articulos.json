@@ -62,5 +62,12 @@
         "fecha":"2025-11-12",
         "imagen": "imagenes/devconnect2025.png",
         "contenido":"Textos/articulos/vitalik_buterin_vuelve_a_argentina__recibirá_una_distinción_y_participará_del_devconnect_2025.txt"
+    },
+    {
+        "id":"articulo10",
+        "titulo":"Las estafas cripto más comunes y cómo evitar caer en ellas",
+        "fecha":"2025-11-19",
+        "imagen": "imagenes/estafascripto2025.png",
+        "contenido":"Textos/articulos/las_estafas_cripto_más_comunes_y_cómo_evitar_caer_en_ellas.txt"
     }
 ] 

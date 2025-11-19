@@ -1,0 +1,97 @@
+
+<article class="articulo-noticia">
+  <h1><b>Las estafas cripto más comunes y cómo evitar caer en ellas</b></h1>
+  <h1 data-start="330" data-end="397"><br></h1>
+<p data-start="398" data-end="464"><em data-start="398" data-end="464">(Advertencia para nuevos y no tan nuevos en el mundo blockchain)</em></p>
+<p data-start="466" data-end="855">El ecosistema cripto sigue creciendo, pero también lo hacen los intentos de estafa. Muchos de ellos se repiten con el mismo patrón, solo cambian los nombres y los logos. En los últimos meses volvieron a circular tres modalidades que vale la pena recordar: <strong data-start="722" data-end="741">falsos airdrops</strong>, <strong data-start="743" data-end="790">supuesto “arbitraje” en plataformas dudosas</strong>, y los clásicos <strong data-start="807" data-end="854">pump &amp; dump impulsados por figuras públicas</strong>.</p>
+<p data-start="857" data-end="1071">Aclaración necesaria:<br data-start="878" data-end="881">
+👉 <em data-start="884" data-end="983">En cripto todo es de riesgo extremo. El que invierte sabe que puede ganar mucho… o perderlo todo.</em><br data-start="983" data-end="986">
+👉 <em data-start="989" data-end="1071">Pero una cosa es riesgo, y otra es una estafa armada para vaciarte la billetera.</em></p>
+<p data-start="1073" data-end="1093">Vamos caso por caso.</p>
+<hr data-start="1095" data-end="1098">
+<h2 data-start="1100" data-end="1125">1️⃣ El falso Airdrop</h2>
+<p data-start="1126" data-end="1178">Una de las estafas más viejas pero todavía efectiva.</p>
+<p data-start="1180" data-end="1460"><strong data-start="1180" data-end="1199">¿Cómo funciona?</strong><br data-start="1199" data-end="1202">
+Te llega un mensaje privado o un comentario donde te dicen que hay un “airdrop exclusivo”, que te tocó cierta cantidad de tokens o que sos elegido para un premio. Te mandan a una web clon, te piden conectar la wallet y firmar una transacción “para reclamar”.</p>
+<p data-start="1462" data-end="1541"><strong data-start="1462" data-end="1506">La firma habilita a drenar tu billetera.</strong><br data-start="1506" data-end="1509">
+En segundos desaparece tu saldo.</p>
+<p data-start="1543" data-end="1567"><strong data-start="1543" data-end="1565">Señales de alerta:</strong></p>
+<ul data-start="1568" data-end="1776">
+<li data-start="1568" data-end="1657">
+<p data-start="1570" data-end="1657">Ediciones de video o fotos donde aparece una figura conocida “anunciando” el airdrop.</p>
+</li>
+<li data-start="1658" data-end="1730">
+<p data-start="1660" data-end="1730">Webs que te obligan a firmar transacciones tipo <em data-start="1708" data-end="1727">setApprovalForAll</em>.</p>
+</li>
+<li data-start="1731" data-end="1776">
+<p data-start="1733" data-end="1776">Premios demasiado buenos para ser reales.</p>
+</li>
+</ul>
+<p data-start="1778" data-end="1887"><strong data-start="1778" data-end="1795">Regla de oro:</strong><br data-start="1795" data-end="1798">
+💀 <em data-start="1801" data-end="1863">Ningún airdrop legítimo te hace firmar para “recibir fondos”</em>.<br data-start="1864" data-end="1867">
+Si hay firma, corré.</p>
+<hr data-start="1889" data-end="1892">
+<h2 data-start="1894" data-end="1969">2️⃣ El falso “Arbitraje”: vos ponés el dinero y ellos ponen… la trampa</h2>
+<p data-start="1970" data-end="2064">Esta modalidad creció mucho porque parece profesional y hasta te muestran supuestas ganancias.</p>
+<p data-start="2066" data-end="2260"><strong data-start="2066" data-end="2085">¿Cómo funciona?</strong><br data-start="2085" data-end="2088">
+Te explican un sistema de “arbitraje entre exchanges” donde supuestamente compran barato en una plataforma y venden caro en otra. Pero para “activar el sistema” te piden:</p>
+<ol data-start="2261" data-end="2411">
+<li data-start="2261" data-end="2345">
+<p data-start="2264" data-end="2345">Enviar tus fondos a una plataforma que ellos recomiendan (casi siempre trucha),</p>
+</li>
+<li data-start="2346" data-end="2370">
+<p data-start="2349" data-end="2370">Invertir un mínimo,</p>
+</li>
+<li data-start="2371" data-end="2411">
+<p data-start="2374" data-end="2411">Dejar el capital bloqueado unos días.</p>
+</li>
+</ol>
+<p data-start="2413" data-end="2536">Al intentar retirar:<br data-start="2433" data-end="2436">
+❌ te piden más plata por “comisiones”,<br data-start="2474" data-end="2477">
+❌ te inventan verificaciones,<br data-start="2506" data-end="2509">
+❌ y finalmente te bloquean.</p>
+<p data-start="2538" data-end="2559"><strong data-start="2538" data-end="2557">Esquema típico:</strong></p>
+<ul data-start="2560" data-end="2764">
+<li data-start="2560" data-end="2630">
+<p data-start="2562" data-end="2630">Simulación de ganancias dentro de la plataforma (falso dashboard).</p>
+</li>
+<li data-start="2631" data-end="2688">
+<p data-start="2633" data-end="2688">Soporte que contesta rápido… hasta que pedís retirar.</p>
+</li>
+<li data-start="2689" data-end="2764">
+<p data-start="2691" data-end="2764">Usuarios en redes sociales defendiendo la plataforma (cuentas compradas).</p>
+</li>
+</ul>
+<p data-start="2766" data-end="2886"><strong data-start="2766" data-end="2783">Regla de oro:</strong><br data-start="2783" data-end="2786">
+💀 <em data-start="2789" data-end="2886">Si tenés que mandar cripto a una página que no conocés para “ganar más cripto”, es estafa 100%.</em></p>
+<hr data-start="2888" data-end="2891">
+<h2 data-start="2893" data-end="2946">3️⃣ Pump &amp; Dump: cuando la fama mueve el mercado</h2>
+<p data-start="2947" data-end="3020">El más “difícil de detectar” porque no siempre es ilegal, pero sí dañino.</p>
+<p data-start="3022" data-end="3304"><strong data-start="3022" data-end="3041">¿Cómo funciona?</strong><br data-start="3041" data-end="3044">
+Una figura pública, influencer o personaje conocido habla de un token nuevo, lo compra antes o está involucrado, genera hype y la gente compra por FOMO.<br data-start="3196" data-end="3199">
+El precio sube artificialmente → ellos venden → el precio se desploma → el público queda atrapado arriba.</p>
+<p data-start="3306" data-end="3544">Ejemplos hay miles, desde memes sin fundamentos hasta proyectos con marketing agresivo.<br data-start="3393" data-end="3396">
+<strong data-start="3396" data-end="3417">Caso emblemático:</strong> el token <em data-start="3427" data-end="3434">Libra</em>, que explotó por el respaldo público inicial, generó una burbuja y después se hundió cuando la realidad pegó.</p>
+<p data-start="3546" data-end="3713">Aquí el punto clave es este:<br data-start="3574" data-end="3577">
+👉 <em data-start="3580" data-end="3713">No hace falta que la persona quiera estafar. Solo con tener mucha influencia puede crear un efecto pump &amp; dump aunque no lo busque.</em></p>
+<p data-start="3715" data-end="3788">En cripto, donde no hay regulaciones estrictas, esto pasa todos los días.</p>
+<hr data-start="3790" data-end="3793">
+<h2 data-start="3795" data-end="3860">⚠️ Conclusión: Cripto puede ser una oportunidad… o un casino</h2>
+<p data-start="3861" data-end="4023">La tecnología es real, las oportunidades existen, pero también existen miles de <strong data-start="3941" data-end="3976">trampas perfectamente diseñadas</strong> para explotar la ilusión de ganancias rápidas.</p>
+<p data-start="4025" data-end="4062"><strong data-start="4025" data-end="4060">Reglas simples para sobrevivir:</strong></p>
+<ul data-start="4063" data-end="4364">
+<li data-start="4063" data-end="4115">
+<p data-start="4065" data-end="4115">Nunca conectes tu wallet a webs que no conozcas.</p>
+</li>
+<li data-start="4116" data-end="4190">
+<p data-start="4118" data-end="4190">Nunca envíes cripto a plataformas nuevas “para desbloquear arbitraje”.</p>
+</li>
+<li data-start="4191" data-end="4256">
+<p data-start="4193" data-end="4256">Desconfiá del hype, especialmente si viene de alguien famoso.</p>
+</li>
+<li data-start="4257" data-end="4306">
+<p data-start="4259" data-end="4306">Usá siempre exchanges y protocolos conocidos.</p>
+</li>
+<li data-start="4307" data-end="4364">
+<p data-start="4309" data-end="4364">Y sobre todo: <strong data-start="4323" data-end="4364">si parece demasiado bueno, es estafa.</strong></p></li></ul><div><b><br></b></div><div>Esto es un pantallazo de algunos de los riesgos que se pueden correr en el mundo blockchain, una tecnologia que llego para quedarse, muy prometedora pero</div><div>que todavia hay puntos importantes que pulir, o por lo menos puntos importantes que aprender para no caer en errores irrecuperables. Por eso siempre investiga</div><div>antes de invertir e invierte lo que estas disouesto a perder. Saludos.</div>
+</article>

@@ -1,7 +1,6 @@
 
 <article class="articulo-noticia">
-  <h1><b>Las estafas cripto más comunes y cómo evitar caer en ellas</b></h1>
-  <h1 data-start="330" data-end="397"><br></h1>
+  
 <p data-start="398" data-end="464"><em data-start="398" data-end="464">(Advertencia para nuevos y no tan nuevos en el mundo blockchain)</em></p>
 <p data-start="466" data-end="855">El ecosistema cripto sigue creciendo, pero también lo hacen los intentos de estafa. Muchos de ellos se repiten con el mismo patrón, solo cambian los nombres y los logos. En los últimos meses volvieron a circular tres modalidades que vale la pena recordar: <strong data-start="722" data-end="741">falsos airdrops</strong>, <strong data-start="743" data-end="790">supuesto “arbitraje” en plataformas dudosas</strong>, y los clásicos <strong data-start="807" data-end="854">pump &amp; dump impulsados por figuras públicas</strong>.</p>
 <p data-start="857" data-end="1071">Aclaración necesaria:<br data-start="878" data-end="881">
@@ -93,5 +92,5 @@ El precio sube artificialmente → ellos venden → el precio se desploma → el
 <p data-start="4259" data-end="4306">Usá siempre exchanges y protocolos conocidos.</p>
 </li>
 <li data-start="4307" data-end="4364">
-<p data-start="4309" data-end="4364">Y sobre todo: <strong data-start="4323" data-end="4364">si parece demasiado bueno, es estafa.</strong></p></li></ul><div><b><br></b></div><div>Esto es un pantallazo de algunos de los riesgos que se pueden correr en el mundo blockchain, una tecnologia que llego para quedarse, muy prometedora pero</div><div>que todavia hay puntos importantes que pulir, o por lo menos puntos importantes que aprender para no caer en errores irrecuperables. Por eso siempre investiga</div><div>antes de invertir e invierte lo que estas disouesto a perder. Saludos.</div>
+<p data-start="4309" data-end="4364">Y sobre todo: <strong data-start="4323" data-end="4364">si parece demasiado bueno, es estafa.</strong></p></li></ul><div><b><br></b></div><div>Esto es un pantallazo de algunos de los riesgos que se pueden correr en el mundo blockchain, una tecnologia que llego para quedarse, muy prometedora pero</div><div>que todavia hay puntos importantes que pulir, o por lo menos puntos importantes que aprender para no caer en errores irrecuperables. Por eso siempre investiga</div><div>antes de invertir e invierte lo que estas dispuesto a perder. Saludos.</div>
 </article>

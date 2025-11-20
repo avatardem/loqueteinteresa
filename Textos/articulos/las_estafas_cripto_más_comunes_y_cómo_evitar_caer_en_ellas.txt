@@ -1,7 +1,7 @@
 
 <article class="articulo-noticia">
   
-<p data-start="398" data-end="464"><em data-start="398" data-end="464">(Advertencia para nuevos y no tan nuevos en el mundo blockchain)</em></p>
+<p class="resaltar" data-start="398" data-end="464"><em data-start="398" data-end="464">(Advertencia para nuevos y no tan nuevos en el mundo blockchain)</em></p>
 <p data-start="466" data-end="855">El ecosistema cripto sigue creciendo, pero también lo hacen los intentos de estafa. Muchos de ellos se repiten con el mismo patrón, solo cambian los nombres y los logos. En los últimos meses volvieron a circular tres modalidades que vale la pena recordar: <strong data-start="722" data-end="741">falsos airdrops</strong>, <strong data-start="743" data-end="790">supuesto “arbitraje” en plataformas dudosas</strong>, y los clásicos <strong data-start="807" data-end="854">pump &amp; dump impulsados por figuras públicas</strong>.</p>
 <p data-start="857" data-end="1071">Aclaración necesaria:<br data-start="878" data-end="881">
 👉 <em data-start="884" data-end="983">En cripto todo es de riesgo extremo. El que invierte sabe que puede ganar mucho… o perderlo todo.</em><br data-start="983" data-end="986">

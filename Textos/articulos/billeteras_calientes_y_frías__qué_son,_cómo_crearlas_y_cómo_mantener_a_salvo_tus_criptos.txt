@@ -1,0 +1,159 @@
+
+<article class="articulo-noticia">
+  <h1><b>Billeteras calientes y frías: qué son, cómo crearlas y cómo mantener a salvo tus criptos</b></h1>
+  <h2><span class="resaltar"></span><br></h2>
+<p data-start="282" data-end="582" class="primer-parrafo">En el mundo cripto, <strong data-start="302" data-end="330">la billetera es tu banco</strong>. De ella depende no solo acceder a tus fondos, sino también protegerlos. Existen dos grandes tipos: <strong data-start="431" data-end="469">billeteras calientes (hot wallets)</strong> y <strong data-start="472" data-end="507">billeteras frías (cold wallets)</strong>. Cada una tiene ventajas y riesgos que conviene entender antes de empezar.</p>
+<hr data-start="584" data-end="587">
+<h2 data-start="589" data-end="630">🔥 <strong data-start="595" data-end="630">¿Qué es una billetera caliente?</strong></h2>
+<p data-start="632" data-end="786">Las <strong data-start="636" data-end="660">billeteras calientes</strong> son las que están <strong data-start="679" data-end="704">conectadas a internet</strong>. Esto las vuelve más cómodas, rápidas y fáciles de usar para operaciones diarias.</p>
+<h3 data-start="788" data-end="802">Ventajas</h3>
+<ul data-start="803" data-end="898">
+<li data-start="803" data-end="824">
+<p data-start="805" data-end="824">Acceso inmediato.</p>
+</li>
+<li data-start="825" data-end="872">
+<p data-start="827" data-end="872">Ideal para enviar, recibir y hacer trading.</p>
+</li>
+<li data-start="873" data-end="898">
+<p data-start="875" data-end="898">Muchas son gratuitas.</p>
+</li>
+</ul>
+<h3 data-start="900" data-end="917">Desventajas</h3>
+<ul data-start="918" data-end="1017">
+<li data-start="918" data-end="978">
+<p data-start="920" data-end="978">Mayor superficie de ataque (phishing, malware, hackeos).</p>
+</li>
+<li data-start="979" data-end="1017">
+<p data-start="981" data-end="1017">Requieren más cuidado del usuario.</p>
+</li>
+</ul>
+<h3 data-start="1019" data-end="1057">Ejemplos de billeteras calientes</h3>
+<ul data-start="1058" data-end="1233">
+<li data-start="1058" data-end="1106">
+<p data-start="1060" data-end="1106"><strong data-start="1060" data-end="1072">MetaMask</strong> (Ethereum, BNB Chain, Polygon).</p>
+</li>
+<li data-start="1107" data-end="1142">
+<p data-start="1109" data-end="1142"><strong data-start="1109" data-end="1125">Trust Wallet</strong> (multicadena).</p>
+</li>
+<li data-start="1143" data-end="1167">
+<p data-start="1145" data-end="1167"><b>Yoroi </b>(Cardano)</p></li>
+<li data-start="1188" data-end="1233">
+<p data-start="1190" data-end="1233"><strong data-start="1190" data-end="1206">Rabby Wallet</strong> (muy popular para DeFi).</p></li><li data-start="1188" data-end="1233"><p data-start="1190" data-end="1233">Muchos exchanges centralizados ya tienen su propia app billetera web (Binance, Bitget, OKX, Coinbase, Gate.io, etc)</p></li>
+</ul>
+<hr data-start="1235" data-end="1238">
+<h2 data-start="1240" data-end="1277">🧊 <strong data-start="1246" data-end="1277">¿Qué es una billetera fría?</strong></h2>
+<p data-start="1279" data-end="1423">Las <strong data-start="1283" data-end="1303">billeteras frías</strong> son las que <strong data-start="1316" data-end="1350">no están conectadas a internet</strong>. Son la opción más segura para guardar grandes cantidades a largo plazo.</p>
+<h3 data-start="1425" data-end="1436">Tipos</h3>
+<ul data-start="1437" data-end="1529">
+<li data-start="1437" data-end="1482">
+<p data-start="1439" data-end="1482"><strong data-start="1439" data-end="1459">Hardware wallets</strong> (las más conocidas).</p>
+</li>
+<li data-start="1483" data-end="1529">
+<p data-start="1485" data-end="1529"><strong data-start="1485" data-end="1502">Paper wallets</strong> (cada vez menos usadas).</p>
+</li>
+</ul>
+<h3 data-start="1531" data-end="1565">Ejemplos de hardware wallets</h3>
+<ul data-start="1566" data-end="1660">
+<li data-start="1566" data-end="1592">
+<p data-start="1568" data-end="1592"><strong data-start="1568" data-end="1589">Ledger Nano S / X</strong>.</p>
+</li>
+<li data-start="1593" data-end="1622">
+<p data-start="1595" data-end="1622"><strong data-start="1595" data-end="1619">Trezor Model T / One</strong>.</p>
+</li>
+<li data-start="1623" data-end="1640">
+<p data-start="1625" data-end="1640"><strong data-start="1625" data-end="1637">BitBox02</strong>.</p>
+</li>
+<li data-start="1641" data-end="1660">
+<p data-start="1643" data-end="1660"><strong data-start="1643" data-end="1657">SafePal S1</strong>.</p>
+</li>
+</ul>
+<h3 data-start="1662" data-end="1676">Ventajas</h3>
+<ul data-start="1677" data-end="1740">
+<li data-start="1677" data-end="1698">
+<p data-start="1679" data-end="1698">Máxima seguridad.</p>
+</li>
+<li data-start="1699" data-end="1740">
+<p data-start="1701" data-end="1740">Perfectas para holder de largo plazo.</p>
+</li>
+</ul>
+<h3 data-start="1742" data-end="1759">Desventajas</h3>
+<ul data-start="1760" data-end="1829">
+<li data-start="1760" data-end="1789">
+<p data-start="1762" data-end="1789">No son gratis (hardware).</p>
+</li>
+<li data-start="1790" data-end="1829">
+<p data-start="1792" data-end="1829">Menos prácticas para operar a diario.</p>
+</li>
+</ul>
+<hr data-start="1831" data-end="1834">
+<h2 data-start="1836" data-end="1892">✨ <strong data-start="1841" data-end="1892">¿Cómo se crea una billetera? (a grandes rasgos)</strong></h2>
+<ol data-start="1894" data-end="2267">
+<li data-start="1894" data-end="1955">
+<p data-start="1897" data-end="1955"><strong data-start="1897" data-end="1924">Descargá la app oficial</strong> (nunca desde enlaces raros).</p>
+</li>
+<li data-start="1956" data-end="2013">
+<p data-start="1959" data-end="2013">Tocá <strong data-start="1964" data-end="1988">“Crear nueva wallet”</strong> o “Create new wallet”.</p>
+</li>
+<li data-start="2014" data-end="2094">
+<p data-start="2017" data-end="2094">El sistema generará tu <strong data-start="2040" data-end="2057">frase semilla</strong> (también llamada recovery phrase).</p>
+</li>
+<li data-start="2095" data-end="2160">
+<p data-start="2098" data-end="2160"><strong data-start="2098" data-end="2118">Anótala en papel</strong> (no capturas de pantalla, no WhatsApp).</p>
+</li>
+<li data-start="2161" data-end="2193">
+<p data-start="2164" data-end="2193">Confirmá el orden correcto.</p>
+</li>
+<li data-start="2194" data-end="2267">
+<p data-start="2197" data-end="2267">La app creará luego tu <strong data-start="2220" data-end="2237">clave privada</strong> y tu <strong data-start="2243" data-end="2264">dirección pública</strong>.</p>
+</li>
+</ol>
+<p data-start="2269" data-end="2323">Eso es todo: con eso ya tenés una billetera 100% tuya.</p>
+<hr data-start="2325" data-end="2328">
+<h2 data-start="2330" data-end="2393">🧩 <strong data-start="2336" data-end="2393">¿Qué es la frase semilla y por qué es tan importante?</strong></h2>
+<p data-start="2395" data-end="2595">La <strong data-start="2398" data-end="2415">frase semilla</strong> es una lista de <strong data-start="2432" data-end="2456">12, 18 o 24 palabras</strong> que representan tu billetera.<br data-start="2486" data-end="2489">
+Es la <strong data-start="2495" data-end="2512">llave maestra</strong>. Si alguien la tiene, <strong data-start="2535" data-end="2562">puede vaciar tus fondos</strong> desde cualquier parte del mundo.</p>
+<ul data-start="2597" data-end="2752">
+<li data-start="2597" data-end="2634">
+<p data-start="2599" data-end="2634"><strong data-start="2599" data-end="2632">Nunca la compartas con nadie.</strong></p>
+</li>
+<li data-start="2635" data-end="2698">
+<p data-start="2637" data-end="2698">No la escribas en chats, fotos, mails ni notas del celular.</p>
+</li>
+<li data-start="2699" data-end="2752">
+<p data-start="2701" data-end="2752">Guardala en papel o placas metálicas resistentes.</p>
+</li>
+</ul>
+<h3 data-start="2754" data-end="2768">Recordá:</h3>
+<p data-start="2769" data-end="2865"><strong data-start="2769" data-end="2865">Si perdés tu frase semilla, perdés el acceso a tus criptos. No hay soporte que las recupere.</strong></p>
+<hr data-start="2867" data-end="2870">
+<h2 data-start="2872" data-end="2902">🔐 <strong data-start="2878" data-end="2902">¿Y la clave privada?</strong></h2>
+<p data-start="2904" data-end="3032">La <strong data-start="2907" data-end="2924">clave privada</strong> es generada por la billetera a partir de la semilla.<br data-start="2977" data-end="2980">
+Es básicamente tu “firma digital” para mover fondos.</p>
+<ul data-start="3034" data-end="3169">
+<li data-start="3034" data-end="3063">
+<p data-start="3036" data-end="3063">No tenés que memorizarla.</p>
+</li>
+<li data-start="3064" data-end="3089">
+<p data-start="3066" data-end="3089">No se comparte nunca.</p>
+</li>
+<li data-start="3090" data-end="3169">
+<p data-start="3092" data-end="3169">Se guarda automáticamente en la wallet, protegida por una contraseña local.</p>
+</li>
+</ul>
+<p data-start="3171" data-end="3248">La semilla = recupera tu wallet.<br data-start="3203" data-end="3206">
+La clave privada = firma cada transacción.</p>
+<hr data-start="3250" data-end="3253">
+<h2 data-start="3255" data-end="3298">🛡️ <strong data-start="3262" data-end="3298">Consejos de seguridad esenciales</strong></h2>
+<p data-start="3300" data-end="3740">✔ <strong data-start="3302" data-end="3355">Descargá wallets solo desde sus sitios oficiales.</strong><br data-start="3355" data-end="3358">
+✔ <strong data-start="3360" data-end="3427">Nunca ingreses tu seed phrase en páginas que no sean TU wallet.</strong><br data-start="3427" data-end="3430">
+✔ <strong data-start="3432" data-end="3478">Activá siempre un PIN o contraseña fuerte.</strong><br data-start="3478" data-end="3481">
+✔ <strong data-start="3483" data-end="3553">Tené una hot wallet para uso diario y una cold wallet para ahorro.</strong><br data-start="3553" data-end="3556">
+✔ <strong data-start="3558" data-end="3603">Chequeá dos veces la red antes de enviar.</strong><br data-start="3603" data-end="3606">
+✔ <strong data-start="3608" data-end="3674">Desconfiá de airdrops, mensajes “de soporte”, bots y anuncios.</strong><br data-start="3674" data-end="3677">
+✔ <strong data-start="3679" data-end="3738">Probalas con poco dinero antes de pasar montos grandes.</strong></p>
+<hr data-start="3742" data-end="3745">
+<h2 data-start="3747" data-end="3767">🧭 <strong data-start="3753" data-end="3767">Conclusión</strong></h2>
+<p data-start="3769" data-end="4031">Las billeteras son el corazón de la seguridad cripto.<br data-start="3822" data-end="3825">
+Una <strong data-start="3829" data-end="3843">hot wallet</strong> te da comodidad y velocidad; una <strong data-start="3877" data-end="3892">cold wallet</strong>, seguridad máxima.<br data-start="3911" data-end="3914">
+La frase semilla es tu tesoro, la clave privada tu firma, y la responsabilidad de protegerlas es exclusivamente tuya.</p><p data-start="3769" data-end="4031">Un gran saludo.&nbsp; Y recuerda investigar antes de invertir e invertir lo que estas dispuesto a arriesgar.</p>
+</article>

@@ -69,5 +69,12 @@
         "fecha":"2025-11-19",
         "imagen": "imagenes/estafascripto2025.png",
         "contenido":"Textos/articulos/las_estafas_cripto_más_comunes_y_cómo_evitar_caer_en_ellas.txt"
+    },
+    {
+        "id":"articulo11",
+        "titulo":"Billeteras calientes y frías, qué son, cómo crearlas y cómo mantener a salvo tus criptos",
+        "fecha":"2025-12-1",
+        "imagen": "imagenes/wallets.png",
+        "contenido":"Textos/articulos/billeteras_calientes_y_frías__qué_son,_cómo_crearlas_y_cómo_mantener_a_salvo_tus_criptos.txt"
     }
 ] 

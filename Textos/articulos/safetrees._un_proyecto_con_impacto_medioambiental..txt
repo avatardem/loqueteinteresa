@@ -1,37 +1,64 @@
-<p style="margin-bottom: 6pt; text-align: justify; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size:13.0pt;font-family:&quot;Montserrat Medium&quot;;color:black">Imagínense
-que en lugar de deforestar para utilizar las tierras o la madera como materia
-prima, reforestamos para reducir la cantidad de dioxido de carbono que existe
-por nuestra contaminación, pero una comunidad que se dedica a hacerlo puede
-verse doblegando su esfuerzo al no recibir ningún tipo de compensación económica,
-sería más redituable talar y vender la materia prima, entonces, ¿si
-reforestamos pero porque se nos incentiva monetariamente para hacerlo?, utilizaríamos
-los artilugios del capitalismo para mejorar el medioambiente, el aire, la vida.
-Acá es donde entra en juego el proyecto, cada productor puede tokenizar sus árboles
-mediante TREES NFT, cada árbol pasa a ser un TOKEN único, el cual mediante la
-aplicación, no solo es tokenizado sino que es monitoreado incluso desde su
-crecimiento, en cualquier etapa de su vida ya puede generale ingresos al
-productor mediante el TOKEN TREES, token que redistribuye el 2% de las
-transacciones entre sus tenedores, que es una de las ventajas de holdearlo en
-nuestras billeteras, es un token deflacionario que mediante quemas manuales
-graduales reduce el suministro total del token que es una forma de valorizarlo
-y es una inversión en la cual nuestra ambición nos permite reconstruir este
-mundo al que tanto daño le hemos hecho por la ambición misma.<o:p></o:p></span></p><p style="margin-bottom: 6pt; text-align: justify; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size:13.0pt;font-family:&quot;Montserrat Medium&quot;;color:black">El token
-se puede comprar en PancakeSwap, solo está disponible en la Binance Smart Chain
-(BSC), y debemos tener configurada la red en nuestra billetera (por ejemplo
-metamask). Vale decir que ya está listada en coinmarketcap y coingecko, y a
-continuación les dejamos el enlace a la página oficial donde pueden encontrar
-más información sobre el proyecto, como su hoja de ruta y la dirección del
-contrato.<o:p></o:p></span></p><p style="margin-bottom: 6pt; text-align: justify; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; overflow: hidden;"><span style="font-size:13.0pt;font-family:
-&quot;Montserrat Medium&quot;;color:black">Como siempre tengan mucho cuidado a la hora de
-comprar token, ahonden en los proyectos, cuiden de corroborar las direcciones
-de los contratos, que en este mundo que está floreciendo hay mucho estafador
-dando vuelta. Lo anterior no es un consejo de inversión sino el desarrollo de
-una nota de los proyectos que a nosotros nos parecen interesantes. Saludos.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-normal">
-
-
-
-
-
-</p><p style="margin-bottom: 6pt; text-align: justify; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; overflow: hidden;"><span style="font-size:13.0pt;font-family:
-&quot;Montserrat Medium&quot;;color:black">www.safetrees.space<o:p></o:p></span></p>
+<article class="articulo-noticia">
+  <h1><b>🌱 SafeTrees (TREES): la idea detrás del proyecto y su situación actual</b></h1>
+  <h1 data-start="250" data-end="325"><span style="color: rgb(33, 37, 41); font-size: 1.75rem; font-weight: 500;">Tokenizar árboles para incentivar la reforestación… pero un proyecto que hoy parece detenido</span></h1>
+<p data-start="424" data-end="813">La propuesta de SafeTrees (TREES) apunta a un concepto interesante: usar la lógica del mercado cripto para incentivar la reforestación. En vez de talar bosques para obtener rentabilidad, el proyecto plantea lo contrario: <strong data-start="645" data-end="669">tokenizar cada árbol</strong>, monitorearlo y recompensar económicamente a quienes lo conservan.<br data-start="736" data-end="739">
+Una forma de convertir la “ambición” en un motor para mejorar el ambiente.</p>
+<p data-start="815" data-end="962">Pero más allá de la propuesta, el estado actual del proyecto genera dudas: <strong data-start="890" data-end="914">la idea sigue en pie</strong>, pero <strong data-start="921" data-end="961">la ejecución parece estar paralizada</strong>.</p>
+<hr data-start="964" data-end="967">
+<h2 data-start="969" data-end="1023">🌳 <strong data-start="975" data-end="1023">La idea central: árboles convertidos en NFTs</strong></h2>
+<p data-start="1025" data-end="1196">SafeTrees propone que cada productor pueda tokenizar sus árboles mediante <strong data-start="1099" data-end="1112">TREES NFT</strong>, transformando cada árbol en un token único. La aplicación del proyecto permitiría:</p>
+<ul data-start="1198" data-end="1377">
+<li data-start="1198" data-end="1247">
+<p data-start="1200" data-end="1247">registrar el árbol desde sus primeras etapas,</p>
+</li>
+<li data-start="1248" data-end="1278">
+<p data-start="1250" data-end="1278">monitorear su crecimiento,</p>
+</li>
+<li data-start="1279" data-end="1377">
+<p data-start="1281" data-end="1377">y vincularlo a un <strong data-start="1299" data-end="1314">token TREES</strong> que redistribuye el 2% de las transacciones entre los holders.</p>
+</li>
+</ul>
+<p data-start="1379" data-end="1590">El token se define como <strong data-start="1403" data-end="1420">deflacionario</strong>, con quemas manuales que reducen el suministro total para intentar valorizarlo a largo plazo.<br data-start="1514" data-end="1517">
+En teoría, una forma de unir incentivos económicos con impacto ambiental.</p>
+<hr data-start="1592" data-end="1595">
+<h2 data-start="1597" data-end="1637">📉 <strong data-start="1603" data-end="1637">¿Qué pasa hoy con el proyecto?</strong></h2>
+<p data-start="1639" data-end="1800">Aunque el sitio oficial sigue online y el token continúa existiendo en la Binance Smart Chain (BSC), <strong data-start="1740" data-end="1792">no hay evidencia reciente, verificable y pública</strong> de que:</p>
+<ul data-start="1802" data-end="1995">
+<li data-start="1802" data-end="1842">
+<p data-start="1804" data-end="1842">se estén tokenizando árboles reales,</p>
+</li>
+<li data-start="1843" data-end="1897">
+<p data-start="1845" data-end="1897">se esté llevando adelante el sistema de monitoreo,</p>
+</li>
+<li data-start="1898" data-end="1950">
+<p data-start="1900" data-end="1950">exista un flujo activo de productores asociados,</p>
+</li>
+<li data-start="1951" data-end="1995">
+<p data-start="1953" data-end="1995">o se esté cumpliendo el roadmap anunciado.</p>
+</li>
+</ul>
+<p data-start="1997" data-end="2168">También se observa bajo volumen de operación en exchanges y poca actualización externa.<br data-start="2084" data-end="2087">
+<strong data-start="2087" data-end="2168">En resumen: la idea está, pero el proyecto aparenta estar frenado o en pausa.</strong></p>
+<hr data-start="2170" data-end="2173">
+<h2 data-start="2175" data-end="2212">💱 <strong data-start="2181" data-end="2212">Dónde se podía operar TREES</strong></h2>
+<p data-start="2214" data-end="2476">El token TREES funcionaba únicamente en la Binance Smart Chain (BSC) y se podía comprar a través de PancakeSwap, siempre verificando el contrato oficial.<br data-start="2367" data-end="2370">
+Además, figuraba listado en CoinMarketCap y CoinGecko, aunque sin actividad destacada en el último tiempo.</p>
+<hr data-start="2478" data-end="2481">
+<h2 data-start="2483" data-end="2515">⚠️ <strong data-start="2489" data-end="2515">Riesgos y precauciones</strong></h2>
+<p data-start="2517" data-end="2557">Como siempre decimos en LoQueTeInteresa:</p>
+<ul data-start="2559" data-end="2784">
+<li data-start="2559" data-end="2589">
+<p data-start="2561" data-end="2589">revisá bien los contratos,</p>
+</li>
+<li data-start="2590" data-end="2618">
+<p data-start="2592" data-end="2618">investigá los proyectos,</p>
+</li>
+<li data-start="2619" data-end="2784">
+<p data-start="2621" data-end="2784">y recordá que en el mundo cripto hay muchos proyectos que se quedan a mitad de camino, no necesariamente por mala fe, sino por falta de ejecución o financiamiento.</p>
+</li>
+</ul>
+<p data-start="2786" data-end="2960">Este artículo <strong data-start="2800" data-end="2833">no es un consejo de inversión</strong>, sino un vistazo a una propuesta que tuvo un enfoque interesante, pero cuya implementación hoy muestra señales de inactividad.</p>
+<hr data-start="2962" data-end="2965">
+<h2 data-start="2967" data-end="2992">🔗 <strong data-start="2973" data-end="2990">Sitio oficial</strong></h2>
+<p data-start="2993" data-end="3062"><a data-start="2993" data-end="3012" rel="noopener" target="_new" class="decorated-link" href="http://www.safetrees.space">www.safetrees.space<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-rtl-flip="" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]"><path d="M14.3349 13.3301V6.60645L5.47065 15.4707C5.21095 15.7304 4.78895 15.7304 4.52925 15.4707C4.26955 15.211 4.26955 14.789 4.52925 14.5293L13.3935 5.66504H6.66011C6.29284 5.66504 5.99507 5.36727 5.99507 5C5.99507 4.63273 6.29284 4.33496 6.66011 4.33496H14.9999L15.1337 4.34863C15.4369 4.41057 15.665 4.67857 15.665 5V13.3301C15.6649 13.6973 15.3672 13.9951 14.9999 13.9951C14.6327 13.9951 14.335 13.6973 14.3349 13.3301Z"></path></svg></span></a> <em data-start="3013" data-end="3062">(aún disponible al momento de escribir la nota)</em></p>
+</article>

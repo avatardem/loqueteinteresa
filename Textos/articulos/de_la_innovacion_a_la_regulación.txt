@@ -1,1 +1,41 @@
-La tecnología blockchain es un componente clave en la mayoría de las criptomonedas, y su capacidad para proporcionar un registro transparente e inmutable de transacciones es una de las principales ventajas que ofrecen las criptomonedas. Sin embargo, la falta de regulación y estandarización ha sido una barrera para la adopción generalizada de las criptomonedas en el mundo financiero. La norma ISO 20022 es una especificación internacional que establece un marco común para el intercambio de información entre instituciones financieras, y su actualización reciente incluye la aceptación de ciertas criptomonedas.<div><br></div><div>La aceptación de ciertas criptomonedas por la norma ISO 20022 es un paso importante hacia la regulación y estandarización en el uso de estas monedas digitales. Al hacer que las transacciones sean más seguras y transparentes, se puede contribuir a aumentar la confianza en las criptomonedas y fomentar su adopción a nivel global. Además, la tecnología blockchain que sustenta las criptomonedas tiene el potencial de transformar muchos aspectos de la vida moderna, incluyendo la industria financiera, la logística, la atención médica y la cadena de suministro.</div><div><br></div><div>La seguridad y transparencia de la tecnología blockchain son ventajas clave que se aplican no solo a las criptomonedas, sino a cualquier industria que busque mejorar la eficiencia y reducir costos. Por ejemplo, en la industria de la cadena de suministro, la tecnología blockchain puede ser utilizada para rastrear y registrar el movimiento de productos desde su origen hasta su destino final, lo que aumenta la eficiencia y la transparencia y reduce los costos asociados con los procesos manuales.</div><div><br></div><div>La norma ISO 20022 no incluye una lista específica de criptomonedas. En su lugar, la norma proporciona una estructura y un marco para la comunicación de información financiera, lo que permite la inclusión de diferentes tipos de criptomonedas que cumplan con ciertos criterios. La norma ISO 20022 se centra en la estandarización y la armonización de los mensajes financieros, lo que permite que las instituciones financieras y otras partes interesadas se comuniquen de manera más efectiva y eficiente en relación a las transacciones financieras, incluyendo las transacciones que involucran criptomonedas. Actualmente, las criptomonedas aceptadas son Bitcoin (BTC), Ethereum (ETH), Bitcoin Cash (BCH), Ripple (XRP), Litecoin (LTC) y Tether (USDT). Sin embargo, es posible que se agreguen más criptomonedas en el futuro a medida que la adopción y el uso de las mismas aumenten.</div><div><br></div><div>En resumen, la tecnología blockchain y las criptomonedas están estrechamente relacionadas, y ambas tienen el potencial de transformar muchos aspectos de la vida moderna. La aceptación de ciertas criptomonedas por la norma ISO 20022 es un paso importante hacia la regulación y estandarización en el uso de estas monedas digitales, mientras que la tecnología blockchain que sustenta las criptomonedas ofrece ventajas como seguridad, transparencia y eficiencia que se pueden aplicar a una variedad de sectores. A medida que continúa evolucionando esta tecnología, es importante seguir investigando y experimentando con sus posibles aplicaciones y entender cómo se puede aprovechar para resolver problemas en el mundo real.</div><div><br></div><div>Y como siempre, es solo un informe, no es una recomendación de inversión, aunque la inclusión de ciertas criptomonedas en la norma ISO 20022 es un paso positivo para la regulación y estandarización de las mismas, no debe ser el único factor a considerar al tomar decisiones de inversión. Se recomienda educarse, realizar su propia investigación u obtener asesoramiento financiero e invertir lo que se está dispuesto a perder. Saludos.</div>
+<article class="articulo-noticia">
+ 
+  <p data-start="397" data-end="705" class="primer-parrafo">La tecnología blockchain es la base de la mayoría de las criptomonedas. Su mayor fortaleza es simple: permite registrar transacciones de manera transparente, verificable y sin posibilidad de alteración. Ese nivel de seguridad y trazabilidad es lo que diferencia a la blockchain de los sistemas tradicionales.</p>
+<p data-start="707" data-end="883">Pero a pesar de sus ventajas, la adopción masiva de criptomonedas todavía enfrenta un desafío clave: la falta de regulación y estandarización. Y ahí es donde aparece ISO 20022.</p>
+<p data-start="885" data-end="1359"><strong data-start="885" data-end="969">ISO 20022 es un estándar internacional para el intercambio de datos financieros.</strong> No regula criptomonedas ni determina cuáles están “aceptadas”, sino que establece un formato unificado y seguro para que bancos y empresas puedan procesar mensajes financieros, incluyendo operaciones que involucren criptoactivos. Esto facilita la integración del mundo cripto con el sistema financiero tradicional, sin necesidad de intermediarios que conviertan o traduzcan la información.</p>
+<p data-start="1361" data-end="1565">A esto se suma un avance clave: <strong data-start="1393" data-end="1450">la regulación europea MiCA (Markets in Crypto Assets)</strong>, la primera ley integral del mundo creada específicamente para criptomonedas.<br data-start="1528" data-end="1531">
+MiCA establece reglas claras para:</p>
+<ul data-start="1567" data-end="1705">
+<li data-start="1567" data-end="1605">
+<p data-start="1569" data-end="1605">exchanges y plataformas de trading</p>
+</li>
+<li data-start="1606" data-end="1633">
+<p data-start="1608" data-end="1633">emisores de stablecoins</p>
+</li>
+<li data-start="1634" data-end="1664">
+<p data-start="1636" data-end="1664">custodios de criptoactivos</p>
+</li>
+<li data-start="1665" data-end="1705">
+<p data-start="1667" data-end="1705">proyectos que lanzan su propio token</p>
+</li>
+</ul>
+<p data-start="1707" data-end="2009">El objetivo es garantizar transparencia, proteger al usuario y evitar estafas sin frenar la innovación. Para operar en Europa, cualquier empresa cripto deberá cumplir requisitos estrictos de auditoría, liquidez y seguridad. Esto es un precedente global, y muchos países están siguiendo el mismo camino.</p>
+<p data-start="2011" data-end="2360">La combinación de estándares técnicos como ISO 20022 y regulaciones claras como MiCA empuja a la industria cripto hacia un nivel de profesionalización que antes no existía. Por primera vez, los bancos pueden integrar datos blockchain de manera estandarizada, y las empresas cripto pueden operar con reglas claras y reconocidas a nivel institucional.</p>
+<p data-start="2362" data-end="2652">Más allá de las criptomonedas, la blockchain está transformando sectores como la logística, la salud, las cadenas de suministro y las finanzas. Su capacidad de garantizar integridad y trazabilidad la vuelve ideal para cualquier proceso que requiera información confiable sin intermediarios.</p>
+<p data-start="2654" data-end="2667">En resumen:</p>
+<ul data-start="2668" data-end="3016">
+<li data-start="2668" data-end="2741">
+<p data-start="2670" data-end="2741">La blockchain permite transacciones seguras, públicas y verificables.</p>
+</li>
+<li data-start="2742" data-end="2857">
+<p data-start="2744" data-end="2857">ISO 20022 ofrece un lenguaje común para integrar datos financieros, incluyendo los provenientes de blockchains.</p>
+</li>
+<li data-start="2858" data-end="2937">
+<p data-start="2860" data-end="2937">MiCA aporta el marco regulatorio más completo del mundo para criptoactivos.</p>
+</li>
+<li data-start="2938" data-end="3016">
+<p data-start="2940" data-end="3016">La combinación de todo esto impulsa una adopción más seria, segura y global.</p>
+</li>
+</ul>
+<p data-start="3018" data-end="3318">Como siempre, esto es solo un informe informativo. No es una recomendación de inversión. La inclusión de activos digitales en estándares o regulaciones es positiva, pero no debe ser el único factor a considerar. Investigá, capacitáte y nunca inviertas más de lo que estás dispuesto a perder. Saludos.</p>
+</article>

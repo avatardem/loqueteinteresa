@@ -1,36 +1,28 @@
-<p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">Atomico3 (AT3) es un proyecto que se viene desarrollando
-hace tiempo, es un token respaldado por un activo real como lo es el litio, más
-específicamente en reservas de carbonato de litio de grado batería (li2co3), un
-proyecto que busca la tokenización de recursos reales como este mineral entre
-otros, una idea parecida a agrotoken que tokeniza los silobolsas de granos de
-la industria agraria. Decimos respaldo real, porque muchos tokens en especial
-las memecoin están basadas en una idea abstracta que a veces se conjuga con el
-mundo gamer como los es catecoin (cate). Y a veces solos son tokens que buscan
-precio solo en la compra y venta de los mismos, pero sin un proyecto real por detrás.</span></p><p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">&nbsp;Atómico 3 proyecta seguir el precio del carbonato de litio un activo del mundo
-real, ampliamente demandado para la fabricación de baterías y con un futuro
-prometedor por el avance de la electromovilidad para la disminución de la
-huella de carbono. Parte del proyecto está destinado a la búsqueda de nuevos
-activos mineros, otra parte a la producción del carbonato de litio, otro uso sería
-el apoyo a las empresas de electromovilidad para la fabricación de baterías.&nbsp;</span></p><p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">El
-contrato del token esta creado sobre la cadena Polygon, y se espera que dentro
-muy poco ingrese en los listados de coinmarketcap, se puede comprar y vender
-por ejemplo en quickswap el DEX más reconocido en esta blockchain, y también se
-puede comprar y hacer staking en la página oficial del proyecto.&nbsp;</span></p><p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">En este
-momento se está trabajando conjunto a la empresa ZENGATE GLOBAL para migrar el token a
-la plataforma blockchain CARDANO, una alianza estratégica y un importante
-cambio que va a traer mejoras sustanciales en el proyecto.&nbsp;</span></p><p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">En lo que se refiere
-a regulaciones la Comisión Nacional de Valores (CNV) acaba de aprobar su
-registro, lo que le permite operar de forma legal en el mercado argentino de activo
-digitales, este registro le da transparencia, seguridad y trazabilidad a atomico3
-en el ámbito cripto.&nbsp;</span></p><p class="MsoNormal"><span style="font-size:13.0pt;line-height:107%;font-family:
-&quot;Montserrat Medium&quot;">Es un proyecto muy interesante a tener en cuenta, les dejó
-la página oficial, <a href="https://atomico3.io/" target=_blank style: "display:inline, text-decoration:line-throug">www.atomico3.io</a>, donde encontraran mucha más información
-detallada sobre atomico3. Como siempre decimos este no es un consejo de
-inversión sino un pantallazo a nuevos proyectos en el mundo Blockchain,
-recuerda estudiar, investigar y asegurarte de invertir tu dinero de manera idónea
-y no invertir más de lo que estes dispuesto a perder. Saludos.<o:p></o:p></span></p>
+<article class="articulo-noticia">
+ 
+  <h3 data-start="159" data-end="211"><br></h3>
+<p data-start="213" data-end="615" class="primer-parrafo">⚠️Atomico3 es un token que propone algo distinto: estar <strong data-start="267" data-end="300">respaldado por un activo real</strong>, en este caso <strong data-start="315" data-end="363">carbonato de litio de grado batería (Li₂CO₃)</strong>. La idea es avanzar en la <strong data-start="390" data-end="426">tokenización de recursos físicos</strong>, similar a lo que ocurre con Agrotoken en el sector agrícola.<br data-start="488" data-end="491">
+A diferencia de muchas memecoins basadas solo en especulación, AT3 busca vincularse a un recurso estratégico del mundo real.</p>
+<h3 data-start="617" data-end="649">🔋 ¿Qué propone el proyecto?</h3>
+<p data-start="650" data-end="891">El objetivo es que el token siga la evolución del <strong data-start="700" data-end="733">precio del carbonato de litio</strong>, un insumo clave para la fabricación de baterías y con fuerte demanda por el avance de la electromovilidad.<br data-start="841" data-end="844">
+El proyecto menciona tres enfoques principales:</p>
+<ul data-start="892" data-end="1009">
+<li data-start="892" data-end="933">
+<p data-start="894" data-end="933">Exploración de nuevos activos mineros</p>
+</li>
+<li data-start="934" data-end="970">
+<p data-start="936" data-end="970">Producción de carbonato de litio</p>
+</li>
+<li data-start="971" data-end="1009">
+<p data-start="973" data-end="1009">Apoyo a empresas de electromovilidad</p>
+</li>
+</ul>
+<h3 data-start="1011" data-end="1038">🔗 Tecnología y avances</h3>
+<p data-start="1039" data-end="1344">AT3 está desplegado en <strong data-start="1062" data-end="1073">Polygon</strong>, donde puede comprarse y venderse en DEX como <strong data-start="1120" data-end="1133">Quickswap</strong>, además de ofrecer staking en su web.<br data-start="1171" data-end="1174">
+Actualmente trabajan junto a <strong data-start="1203" data-end="1221">ZENGATE GLOBAL</strong> para migrar el token a la blockchain <strong data-start="1259" data-end="1270">Cardano</strong>, una movida estratégica que, según el equipo, traerá mejoras importantes.</p>
+<h3 data-start="1346" data-end="1377">🏛️ Regulación en Argentina</h3>
+<p data-start="1378" data-end="1574">La <strong data-start="1381" data-end="1388">CNV</strong> aprobó recientemente su registro, permitiéndole operar dentro del marco legal local para activos digitales. Esto agrega transparencia, seguridad y trazabilidad al proyecto en Argentina.</p>
+<h3 data-start="1576" data-end="1597">📌 Para saber más</h3>
+<p data-start="1598" data-end="1675">Podés encontrar información completa en su sitio oficial: <strong data-start="1656" data-end="1675"><a data-start="1658" data-end="1673" rel="noopener" target="_new" class="decorated-link" href="http://www.atomico3.io">www.atomico3.io<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-rtl-flip="" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]"><path d="M14.3349 13.3301V6.60645L5.47065 15.4707C5.21095 15.7304 4.78895 15.7304 4.52925 15.4707C4.26955 15.211 4.26955 14.789 4.52925 14.5293L13.3935 5.66504H6.66011C6.29284 5.66504 5.99507 5.36727 5.99507 5C5.99507 4.63273 6.29284 4.33496 6.66011 4.33496H14.9999L15.1337 4.34863C15.4369 4.41057 15.665 4.67857 15.665 5V13.3301C15.6649 13.6973 15.3672 13.9951 14.9999 13.9951C14.6327 13.9951 14.335 13.6973 14.3349 13.3301Z"></path></svg></span></a></strong></p>
+<p data-start="1677" data-end="1883">Como siempre, esto <strong data-start="1696" data-end="1729">no es un consejo de inversión</strong>, sino una mirada general sobre nuevos proyectos del ecosistema cripto. Informate, investigá y recordá no invertir más de lo que estés dispuesto a perder.&nbsp;</p><p data-start="1677" data-end="1883">Saludos</p>
+</article>

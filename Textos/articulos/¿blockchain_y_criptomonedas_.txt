@@ -1,55 +1,114 @@
-<p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">¿Que es una Blockchain (Cadena de bloques)?<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Una cadena de bloques es simplemente un libro diario en el cual quedan
-asentadas todas las transacciones que se hicieron sobre la misma, de forma
-permanente y sin poder modificarlas, el sistema es descentralizado porque no
-hay una entidad que sea la que lleve y resguarde el libro, sino que queda
-guardado en cada uno de los equipos que componen la red o que trabajen con la
-red, permitiendo el acceso a cualquier usuario a ver cada una de estas
-transacciones. Cada bloque está compuesto por un número finito de transacciones
-y una vez que se llena se envía o sube a la red para empezar a formar el
-próximo bloque.&nbsp;</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Los mineros (equipos preparados para poder resolver cada
-bloque) son los encargados de confirmar cada transacción y de resolver el
-proceso por el cual cada bloque es cerrado y subido a la red, momento en el
-cual reciben su recompensa, cuanto más potente es el equipo mayor es la
-probabilidad de resolver un bloque, esta forma de minería se llama prueba de
-trabajo (proof of work) es la utilizada por la madre de la criptomonedas,
-Bitcoin y este es el momento cuando el árbol no nos deja ver el bosque,
-nombramos a Bitcoin y ya pensamos en especulación, ganar, ambición y perdemos
-de vista la tecnología por detrás, el verdadero tesoro, LA BLOCKCHAIN.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Hoy en
-día existen otras formas de minería más amenas con el medio ambiente y que
-hacen a las cadenas muchos más rápidas y eficientes, en la red de bitcoin se
-consume mucha energía por la necesidad de potencia que tienen los equipos para
-realizar los cálculos y cada transacción tarda mucho tiempo en resolverse, por
-ejemplo si uno necesita una red pagos rápida esta no sería una opción. Una de
-los nuevos métodos de minería es la prueba de participación (proof of stake) en
-la que se crean pooles de minería, cada usuario participa en ellos dejando sus
-criptos en staking (que es en una especie de plazo fijo) y recibe una
-recompensa a cambio, los pooles con más participación son los que más
-probabilidades en el minado tienen.<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">¿Que es una criptomoneda?<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Una criptomoneda es la moneda nativa de la red o cadena de bloques, cada
-red tiene la suya (Bitcoin (BTC), Ethereum (ETHER), Cardano (ADA), Binance
-(BNB), Solana (SOL), Bitget(BGB) Thundercore (TT) etc) son activos digitales que
-se pueden transaccionar y su valor depende de varios factores, el volumen de
-transacciones, de la cantidad de monedas circulante, de la cantidad de monedas
-en staking, etc. Existen monedas en paridad 1:1 con el dólar llamadas
-stablecoin o monedas estables, como lo son el USDT, USDC, etc.<o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Con la llegada de los smarts contracts (contratos digitales) en la red
-ethereum se abrió una posibilidad enorme que es la de poder crear un proyecto
-sobre la red, que tenga su propia moneda, estos se denominan TOKENs, un token
-es la moneda de un proyecto que trabaja sobre una red en particular, por ejemplo,
-Catecoin (proyecto en BSC), Shiba Inu (red ehtereum), CYT(Coinary Token red
-BSC), Guess Token(dentro de la red Thundercore),&nbsp; hoy por hoy con la
-llegada de las crosschain o plataformas de cadena cruzada un proyecto puede
-interactuar entre diferentes redes y un token puede ser transferido entre
-distintas redes también.<o:p></o:p></span></p><p class="MsoNormal">
+
+<article class="articulo-noticia">
+  
+  <h2 data-start="183" data-end="213"><span style="color: rgb(33, 37, 41); font-size: 1rem; font-weight: 400;">Una </span><strong data-start="219" data-end="233" style="color: rgb(33, 37, 41); font-size: 1rem;">blockchain</strong><span style="color: rgb(33, 37, 41); font-size: 1rem; font-weight: 400;"> (cadena de bloques) es, básicamente, un libro contable digital donde se registran todas las transacciones de una red.</span></h2><p data-start="215" data-end="418" class="primer-parrafo">
+La clave: <strong data-start="364" data-end="417">lo que se escribe no se puede borrar ni modificar</strong>.</p>
+<p data-start="420" data-end="676">Este libro no lo guarda un banco ni una empresa. Está copiado en cientos o miles de computadoras distribuidas por todo el mundo. Por eso se dice que es <strong data-start="572" data-end="591">descentralizado</strong> y transparente: cualquiera puede ver las transacciones, pero nadie puede alterarlas.</p>
+<p data-start="678" data-end="876">Cada bloque contiene un conjunto de operaciones. Cuando se llena, se “cierra” y se agrega al historial permanente de la cadena. Así se forma la blockchain: bloque sobre bloque, de forma cronológica.</p>
+<hr data-start="878" data-end="881">
+<h2 data-start="883" data-end="926"><strong data-start="886" data-end="926">Los mineros y la “prueba de trabajo”</strong></h2>
+<p data-start="928" data-end="1092">Los <strong data-start="932" data-end="943">mineros</strong> son computadoras especializadas que validan transacciones y se encargan de cerrar cada bloque.<br data-start="1038" data-end="1041">
+Cada vez que lo logran, reciben una <strong data-start="1077" data-end="1091">recompensa</strong>.</p>
+<p data-start="1094" data-end="1353">Este sistema se llama <strong data-start="1116" data-end="1139">Proof of Work (PoW)</strong> o prueba de trabajo, y es el mecanismo que usa <strong data-start="1187" data-end="1198">Bitcoin</strong>.<br data-start="1199" data-end="1202">
+Es seguro, pero también muy costoso en energía: los equipos deben resolver cálculos enormes, lo que vuelve la red lenta y poco apta para pagos rápidos.</p>
+<p data-start="1355" data-end="1551">Acá suele aparecer la confusión: se habla de Bitcoin y todo se reduce a especulación, precios y ganancias.<br data-start="1461" data-end="1464">
+Y nos olvidamos del verdadero salto tecnológico detrás de todo esto: <strong data-start="1533" data-end="1550">la blockchain</strong>.</p>
+<hr data-start="1553" data-end="1556">
+<h2 data-start="1558" data-end="1604"><strong data-start="1561" data-end="1604">Nuevos métodos: prueba de participación</strong></h2>
+<p data-start="1606" data-end="1740">Para mejorar eficiencia y reducir el consumo energético surgieron sistemas como el <strong data-start="1689" data-end="1713">Proof of Stake (PoS)</strong> o prueba de participación.</p>
+<p data-start="1742" data-end="1810">En PoS no se compite con computadoras, sino con <strong data-start="1790" data-end="1807">participación</strong>:</p>
+<ul data-start="1811" data-end="2066">
+<li data-start="1811" data-end="1896">
+<p data-start="1813" data-end="1896">Los usuarios depositan sus criptos en <strong data-start="1851" data-end="1862">staking</strong>, algo parecido a un plazo fijo.</p>
+</li>
+<li data-start="1897" data-end="1933">
+<p data-start="1899" data-end="1933">Se forman <em data-start="1909" data-end="1916">pools</em> de validación.</p>
+</li>
+<li data-start="1934" data-end="2005">
+<p data-start="1936" data-end="2005">Cuanto más grande es un pool, más chances tiene de validar bloques.</p>
+</li>
+<li data-start="2006" data-end="2066">
+<p data-start="2008" data-end="2066">Los participantes reciben recompensas por aportar capital.</p>
+</li>
+</ul>
+<p data-start="2068" data-end="2171">Este método hace que las redes sean <strong data-start="2104" data-end="2170">más rápidas, más baratas y más amigables con el medio ambiente</strong>.</p>
+<hr data-start="2173" data-end="2176">
+<h2 data-start="2178" data-end="2210"><strong data-start="2181" data-end="2210">¿Qué es una criptomoneda?</strong></h2>
+<p data-start="2212" data-end="2260">Cada blockchain tiene su propia moneda nativa:</p>
+<ul data-start="2261" data-end="2377">
+<li data-start="2261" data-end="2278">
+<p data-start="2263" data-end="2278">Bitcoin → BTC</p>
+</li>
+<li data-start="2279" data-end="2297">
+<p data-start="2281" data-end="2297">Ethereum → ETH</p>
+</li>
+<li data-start="2298" data-end="2315">
+<p data-start="2300" data-end="2315">Cardano → ADA</p>
+</li>
+<li data-start="2316" data-end="2345">
+<p data-start="2318" data-end="2345">Binance Smart Chain → BNB</p>
+</li>
+<li data-start="2346" data-end="2377">
+<p data-start="2348" data-end="2377">Solana → SOL<br data-start="2360" data-end="2363">
+…y muchas más.</p>
+</li>
+</ul>
+<p data-start="2379" data-end="2484">Son <strong data-start="2383" data-end="2404">activos digitales</strong> que se pueden enviar, recibir y almacenar.<br data-start="2447" data-end="2450">
+Su valor depende de factores como:</p>
+<ul data-start="2485" data-end="2610">
+<li data-start="2485" data-end="2523">
+<p data-start="2487" data-end="2523">cantidad de monedas en circulación</p>
+</li>
+<li data-start="2524" data-end="2552">
+<p data-start="2526" data-end="2552">volumen de transacciones</p>
+</li>
+<li data-start="2553" data-end="2586">
+<p data-start="2555" data-end="2586">cantidad bloqueada en staking</p>
+</li>
+<li data-start="2587" data-end="2610">
+<p data-start="2589" data-end="2610">utilidad del proyecto</p>
+</li>
+</ul>
+<p data-start="2612" data-end="2771">También existen las <strong data-start="2632" data-end="2647">stablecoins</strong>, como <strong data-start="2654" data-end="2662">USDT</strong> o <strong data-start="2665" data-end="2673">USDC</strong>, que mantienen paridad 1:1 con el dólar y se usan para resguardar valor o operar sin volatilidad.</p>
+<hr data-start="2773" data-end="2776">
+<h2 data-start="2778" data-end="2802"><strong data-start="2781" data-end="2802">¿Qué es un token?</strong></h2>
+<p data-start="2804" data-end="2991">Con la llegada de los <strong data-start="2826" data-end="2845">smart contracts</strong> (contratos inteligentes) en Ethereum, surgió la posibilidad de crear proyectos encima de una blockchain ya existente.<br data-start="2963" data-end="2966">
+Ahí nacen los <strong data-start="2980" data-end="2990">tokens</strong>.</p>
+<p data-start="2993" data-end="3070">Un token es la moneda de un proyecto que funciona sobre otra red.<br data-start="3058" data-end="3061">
+Ejemplos:</p>
+<ul data-start="3071" data-end="3196">
+<li data-start="3071" data-end="3099">
+<p data-start="3073" data-end="3099">Shiba Inu → Red Ethereum</p>
+</li>
+<li data-start="3100" data-end="3134">
+<p data-start="3102" data-end="3134">Catecoin → Red BNB Smart Chain</p>
+</li>
+<li data-start="3135" data-end="3162">
+<p data-start="3137" data-end="3162">CYT (Coinary) → Red BSC</p>
+</li>
+<li data-start="3163" data-end="3196">
+<p data-start="3165" data-end="3196">Guess Token → Red ThunderCore</p>
+</li>
+</ul>
+<p data-start="3198" data-end="3309">Hoy, gracias a las <strong data-start="3217" data-end="3232">cross-chain</strong>, un mismo token puede existir en varias redes e incluso moverse entre ellas.</p>
+<hr data-start="3311" data-end="3314">
+<h2 data-start="3316" data-end="3334"><strong data-start="3319" data-end="3334">Para cerrar</strong></h2>
+<p data-start="3336" data-end="3516">Esto es solo un pantallazo del mundo blockchain: una tecnología que apunta a la <strong data-start="3416" data-end="3437">descentralización</strong>, la <strong data-start="3442" data-end="3459">transparencia</strong> y la <strong data-start="3465" data-end="3479">privacidad</strong>, pero que sigue en pleno desarrollo.</p>
+<p data-start="3518" data-end="3536">Si vas a invertir:</p>
+<ul data-start="3537" data-end="3626">
+<li data-start="3537" data-end="3550">
+<p data-start="3539" data-end="3550">investigá</p>
+</li>
+<li data-start="3551" data-end="3587">
+<p data-start="3553" data-end="3587">aprendé cómo funcionan las redes</p>
+</li>
+<li data-start="3588" data-end="3626">
+<p data-start="3590" data-end="3626">y desconfiá de proyectos poco claros</p>
+</li>
+</ul>
+<p data-start="3628" data-end="3715">El potencial es enorme, pero el riesgo también.<br data-start="3675" data-end="3678">
+Sin miedo, pero con cuidado. Saludos.</p>
+</article>
 
 
 
-
-
-
-
-
-
-</p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:normal"><span style="font-size: 14pt; font-family: &quot;Montserrat Medium&quot;;">Esto fue un pantallazo de lo que es la blockchain, una tecnología que
-apuesta a la descentralización y a la transparencia financiera, manteniendo la
-privacidad, pero todo esto esta muy fresco todavía, por eso, tengan cuidado a
-la hora de invertir, investiguen y edúquense para no caer en estafas.
-Saludos&nbsp;<o:p></o:p></span></p>

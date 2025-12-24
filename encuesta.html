@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <!-- 🧭 Configuración básica -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- 🖋️ Tipografía -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- 🏷️ Título (personalizar por página) -->
+    <title>LoQueTeInteresa</title>
+    <!-- Ejemplo por página:
+         <title>Cursos - LoQueTeInteresa</title>
+         <title>Noticias - LoQueTeInteresa</title>
+    -->
+
+    <!-- 📄 Meta descripción para SEO (personalizar por página) -->
+    <meta name="description" content="Noticias y artículos interesantes sobre tecnología, blockchain y más.">
+    <!-- Ejemplo:
+         <meta name="description" content="Descubre nuestros cursos sobre tecnología, blockchain y finanzas.">
+    -->
+
+    <!-- 🌐 Open Graph (para compartir en redes) -->
+    <meta property="og:title" content="LoQueTeInteresa">
+    <meta property="og:description" content="Noticias y artículos interesantes sobre tecnología, blockchain y más.">
+    <meta property="og:image" content="img/og-image.jpg">
+    <meta property="og:url" content="https://www.loqueteinteresa.com.ar">
+    <meta property="og:type" content="website">
+    <!-- Si es un artículo o sección específica, podés ajustar:
+         og:title / og:description / og:image / og:url
+    -->
+
+    <!-- 🧩 Favicon -->
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+
+    <!-- Bootstrap primero -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+
+
+    <!-- 🎨 Estilos (tu CSS principal) -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/encuesta.css">
+
+    <!-- 💰 Script global de Google AdSense (solo una vez por página) -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5318611986094737"
+        crossorigin="anonymous"></script>
+
+    <!-- 🧠 (Opcional) meta de color del navegador móvil -->
+    <meta name="theme-color" content="#0f3d3e">
+</head>
+
+
+<body>
+    <header>
+        <div class="title">LoQueTeInteresa</div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
+        <div id="coinmarketcap-widget-marquee" coins="1,1027,825,5994,9656,19259,11427,3930,10407,29175" currency="USD"
+            theme="light" transparent="false" show-symbol-logo="true"></div>
+    </header>
+
+    <!-- <div class="toggle-btn2" onclick="toggleMenu()">☰</div> -->
+    <div class="toggle-btn" onmouseover="showSidebar()">▶</div>
+    <nav class="sidebar" onmouseleave="hideSidebar()">
+        <div><img src="imagenes/Logo.svg" alt="Logo" width="50"></div>
+
+        <div class="titlebarra">
+            <h2>Lo Que Te Interesa</h2>
+            <h4>Aprende, Conoce, Explora...</h4>
+        </div>
+        <ul class="menu">
+            <li><a href="index.html">INICIO</a></li>
+            <li><a href="mundo-blockchain.html">MUNDO BLOCKCHAIN</a></li>
+            <li><a href="notas.html">NOTAS DE INTERÉS</a></li>
+            <li class="dropdown">
+                <a href="#">CURSOS</a>
+                <ul class="submenu">
+                    <li><a href="cocina.html">Cocina</a></li>
+                    <li><a href="informatica.html">Informática</a></li>
+                    <li><a href="musica.html">Música</a></li>
+                    <li><a href="idiomas.html">Idiomas</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="sidebar-goat">
+            <a href="/encuesta.html" class="goat-link">
+                <strong>Encuesta GOAT Definitiva</strong><br>
+                Aportá 0.1 USDT y votá
+            </a>
+        </div>
+    </nav>
+
+
+    <!-- SECCIÓN ENCUESTA -->
+    <section class="encuesta-goat">
+        <span class="presentacion">
+            <h2>Participá de la Encuesta Definitiva: ¿quién es el GOAT para vos?</h2>
+
+            <p>Elegí tu bando: PulgaLovers o BichoLovers.
+                Esta es una votación simbólica, creada por fans, sin relación oficial con ningún jugador, club
+                o marca registrada. <br> El aporte de 0.1 USDT habilita la emisión de un voto y ayuda a mantener
+                el sitio. No se entregan premios ni beneficios económicos.</p>
+        </span><br>
+
+        <div class="encuesta-top">
+            <button id="connect" onclick="connectWallet()">Conectar Wallet</button>
+
+            <!-- <button id="connect">Conectar Wallet</button> -->
+            <p id="status"></p>
+        </div>
+
+        <div class="encuesta-container">
+
+            <div class="encuesta-side left">
+                <h2>Votá PulgaLovers</h2>
+                <button class="encuesta-btn ten" onclick="vote(1)">10</button>
+            </div>
+
+            <div class="encuesta-side right">
+                <h2>Votá BichoLovers</h2>
+                <button class="encuesta-btn seven" onclick="vote(2)">7</button>
+            </div>
+
+        </div>
+
+        <div class="encuesta-results">
+            <p id="results"></p>
+        </div>
+
+    </section>
+
+
+
+    <button id="openTerms" style="margin-top:20px;">Términos y Condiciones</button>
+
+    <div id="termsModal" class="modal">
+        <div class="modal-content">
+            <span id="closeModal" class="close">&times;</span>
+            <h2>Términos y Condiciones</h2>
+            <p>
+                Aviso Legal y Términos de Participación: : Esta encuesta es un proyecto independiente creado por fans,
+                con fines recreativos.
+                No está afiliada, patrocinada ni asociada a ningún jugador profesional, club de fútbol ni entidad
+                deportiva. Los términos “PulgaLovers” y “BichoLovers” son denominaciones informales utilizadas
+                exclusivamente con propósito lúdico.
+
+                El pago de 0.1 USDT al que se deben sumar las comisiones de red(gas en BNB) corresponde a la
+                participación en la encuesta y al mantenimiento del sitio.
+                Dicho pago no constituye una donación, inversión ni apuesta, no otorga premios ni beneficios
+                económicos, y únicamente habilita la emisión de un voto dentro de la plataforma.
+
+
+                La participación es voluntaria y queda registrada en la blockchain. El usuario comprende
+                que las transacciones no pueden revertirse.
+                La plataforma no solicita datos personales, solo la interacción con la billetera del usuario
+                a través de proveedores Web3 (como MetaMask).
+
+            </p>
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="redes">
+            <ul class="social-icons">
+                <li class="social-item"><a href="https://facebook.com" target="_blank"><img src="imagenes/facebook.svg"
+                            alt="Facebook" width="40"></a></li>
+                <li class="social-item"><a href="https://instagram.com" target="_blank"><img
+                            src="imagenes/Instagram.png" alt="Instagram" width="40"></a></li>
+                <li class="social-item"><a href="https://tiktok.com" target="_blank"><img src="imagenes/tiktoklogol.png"
+                            alt="Instagram" width="40"></a></li>
+                <!-- <li class="social-item"><a href="https://twitter.com" target="_blank"><img src="images/x.png"
+                                alt="X (Twitter)" width="40"></a></li>
+                    <li class="social-item"><a href="https://t.me" target="_blank"><img src="images/Telegram.svg"
+                                alt="Telegram" width="40"></a></li> -->
+            </ul>
+        </div>
+        <div class="derechos">LoQueTeInteresa - @Copyrigth 2025 Since 2013 - Todos los derechos reservados</div>
+    </footer>
+    <script>
+        document.getElementById("openTerms").onclick = function () {
+            document.getElementById("termsModal").style.display = "block";
+        }
+        document.getElementById("closeModal").onclick = function () {
+            document.getElementById("termsModal").style.display = "none";
+        }
+        window.onclick = function (e) {
+            if (e.target == document.getElementById("termsModal")) {
+                document.getElementById("termsModal").style.display = "none";
+            }
+        }
+    </script>
+
+    <script src="js/scriptbarra.js"></script>
+    <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+
+    <!-- <script defer src="https://cdn.jsdelivr.net/npm/ethers@5.7.2/dist/ethers.min.js"></script> -->
+    <script src="js/encuesta.js"></script>
+
+
+
+</body>
+
+</html>

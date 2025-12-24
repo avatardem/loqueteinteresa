@@ -113,6 +113,24 @@ header {
 .dropdown:hover .submenu {
     display: block;
 }
+.sidebar-goat {
+  margin-top: 20px;
+  padding: 12px;
+  background: #111827;
+  border-left: 4px solid #f3dca3;
+
+}
+
+.goat-link {
+  color: #f9fafb;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+}
+
+.goat-link:hover {
+  text-decoration: underline;
+}
 
 /* === BOTÓN SIDEBAR === */
 .toggle-btn {

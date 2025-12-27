@@ -141,24 +141,45 @@
             <h2>Términos y Condiciones</h2>
             <p>
                 Aviso Legal y Términos de Participación: : Esta encuesta es un proyecto independiente creado por fans,
-                con fines recreativos.
+                con fines recreativos.<br><br>
                 No está afiliada, patrocinada ni asociada a ningún jugador profesional, club de fútbol ni entidad
                 deportiva. Los términos “PulgaLovers” y “BichoLovers” son denominaciones informales utilizadas
-                exclusivamente con propósito lúdico.
+                exclusivamente con propósito lúdico.<br><br>
 
                 El pago de 0.1 USDT al que se deben sumar las comisiones de red(gas en BNB) corresponde a la
                 participación en la encuesta y al mantenimiento del sitio.
                 Dicho pago no constituye una donación, inversión ni apuesta, no otorga premios ni beneficios
-                económicos, y únicamente habilita la emisión de un voto dentro de la plataforma.
+                económicos, y únicamente habilita la emisión de un voto dentro de la plataforma.<br><br>
 
 
                 La participación es voluntaria y queda registrada en la blockchain. El usuario comprende
-                que las transacciones no pueden revertirse.
+                el uso de la plataforma implica la aceptación de que las interacciones con contratos inteligentes son
+                irreversibles y se realizan bajo responsabilidad del usuario.<br><br>
+
                 La plataforma no solicita datos personales, solo la interacción con la billetera del usuario
                 a través de proveedores Web3 (como MetaMask).
 
             </p>
-        </div>
+            </div>
+   <div id="ContractModal" class="modal">
+            <div class="modal-content">
+                <span id="closeModal1" class="close">&times;</span>
+                <h2>Contrato inteligente</h2>
+                <p>
+                    La encuesta utiliza un contrato inteligente desplegado en la red BNB Smart Chain.<br><br>
+    
+                    El código fuente del contrato se encuentra disponible públicamente en el siguiente repositorio para su
+                    revisión:<br><br>
+                    👉 <a
+                        href="https://github.com/avatardem/loqueteinteresa/blob/main/contracts/GoatVote.sol" target="_blank">https://github.com</a><br><br>
+    
+                    El contrato no ha sido verificado en BscScan debido a diferencias técnicas de compilación, pero el
+                    código publicado corresponde al contrato actualmente en uso.<br><br>
+    
+                    Dirección del Contrato: 0x356C906c3E0Cc5094081C98A3b03D8A357F310dF
+                </p>
+            </div>
+        
     </div>
 
 
@@ -192,7 +213,19 @@
             }
         }
     </script>
-
+    <script>
+        document.getElementById("ContractTerms").onclick = function () {
+            document.getElementById("ContractModal").style.display = "block";
+        }
+        document.getElementById("closeModal1").onclick = function () {
+            document.getElementById("ContractModal").style.display = "none";
+        }
+        window.onclick = function (e) {
+            if (e.target == document.getElementById("ContractModal")) {
+                document.getElementById("ContractModal").style.display = "none";
+            }
+        }
+    </script>
     <script src="js/scriptbarra.js"></script>
     <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
 
@@ -202,5 +235,6 @@
 
 
 </body>
+
 
 </html>

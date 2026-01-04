@@ -266,6 +266,20 @@ main {
     font-size: 1.05rem;
     color: #ffffff;
 }
+.cta-link {
+  font-weight: 800;
+  text-decoration: underline;
+  color: #f5a623; /* amarillo cripto */
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.cta-encuesta:hover {
+  opacity: 0.85;
+  color: #ffb84d;
+}
+
 
 /* === TARJETAS === */
 .tarjetas-container {

@@ -59,10 +59,6 @@ header {
     top: 0;
     width: 25rem;
     height: 100vh;
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    font-weight: bold;
-    letter-spacing: 2px;
     background: #115047;
     color: #f3dca3;
     padding-top: 1.25rem;
@@ -141,6 +137,10 @@ header {
     position: fixed;
     left: 0;
     top: 50%;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-weight: bold;
+    letter-spacing: 2px;
     background: #115147;
     color: white;
     cursor: pointer;

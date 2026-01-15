@@ -200,32 +200,36 @@
         </div>
         <div class="derechos">LoQueTeInteresa - @Copyrigth 2025 Since 2013 - Todos los derechos reservados</div>
     </footer>
-    <script>
-        document.getElementById("openTerms").onclick = function () {
-            document.getElementById("termsModal").style.display = "block";
+   <script>
+    const termsModal = document.getElementById("termsModal");
+    const contractModal = document.getElementById("ContractModal");
+
+    document.getElementById("openTerms").onclick = () => {
+        termsModal.style.display = "block";
+    };
+
+    document.getElementById("ContractTerms").onclick = () => {
+        contractModal.style.display = "block";
+    };
+
+    document.getElementById("closeModal").onclick = () => {
+        termsModal.style.display = "none";
+    };
+
+    document.getElementById("closeModal1").onclick = () => {
+        contractModal.style.display = "none";
+    };
+
+    window.onclick = function (e) {
+        if (e.target === termsModal) {
+            termsModal.style.display = "none";
         }
-        document.getElementById("closeModal").onclick = function () {
-            document.getElementById("termsModal").style.display = "none";
+        if (e.target === contractModal) {
+            contractModal.style.display = "none";
         }
-        window.onclick = function (e) {
-            if (e.target == document.getElementById("termsModal")) {
-                document.getElementById("termsModal").style.display = "none";
-            }
-        }
-    </script>
-    <script>
-        document.getElementById("ContractTerms").onclick = function () {
-            document.getElementById("ContractModal").style.display = "block";
-        }
-        document.getElementById("closeModal1").onclick = function () {
-            document.getElementById("ContractModal").style.display = "none";
-        }
-        window.onclick = function (e) {
-            if (e.target == document.getElementById("ContractModal")) {
-                document.getElementById("ContractModal").style.display = "none";
-            }
-        }
-    </script>
+    };
+</script>
+
     <script src="js/scriptbarra.js"></script>
     <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
 
@@ -238,6 +242,7 @@
 
 
 </html>
+
 
 
 

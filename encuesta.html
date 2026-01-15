@@ -204,13 +204,15 @@
     const termsModal = document.getElementById("termsModal");
     const contractModal = document.getElementById("ContractModal");
 
-    document.getElementById("openTerms").onclick = () => {
+    document.getElementById("openTerms").addEventListener("click", (e) => {
+        e.stopPropagation();
         termsModal.style.display = "block";
-    };
+    });
 
-    document.getElementById("ContractTerms").onclick = () => {
+    document.getElementById("ContractTerms").addEventListener("click", (e) => {
+        e.stopPropagation();
         contractModal.style.display = "block";
-    };
+    });
 
     document.getElementById("closeModal").onclick = () => {
         termsModal.style.display = "none";
@@ -220,15 +222,16 @@
         contractModal.style.display = "none";
     };
 
-    window.onclick = function (e) {
+    window.addEventListener("click", (e) => {
         if (e.target === termsModal) {
             termsModal.style.display = "none";
         }
         if (e.target === contractModal) {
             contractModal.style.display = "none";
         }
-    };
+    });
 </script>
+
 
     <script src="js/scriptbarra.js"></script>
     <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
@@ -242,6 +245,7 @@
 
 
 </html>
+
 
 
 

@@ -32,6 +32,7 @@ Este proyecto utiliza un **contrato inteligente** desplegado en la **BNB Smart C
 - El archivo principal del contrato es:  
   **`GoatVote.sol`**
 - El contrato fue desplegado en **mainnet** y es el utilizado actualmente por la aplicación web.
+- Contrato verificado en BscScan (Exact Match)
 
 🔎 **Importante**  
 La publicación del código en GitHub permite a cualquier usuario:

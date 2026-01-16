@@ -200,39 +200,8 @@
         </div>
         <div class="derechos">LoQueTeInteresa - @Copyrigth 2025 Since 2013 - Todos los derechos reservados</div>
     </footer>
-   <script>
-    const termsModal = document.getElementById("termsModal");
-    const contractModal = document.getElementById("ContractModal");
-
-    document.getElementById("openTerms").addEventListener("click", (e) => {
-        e.stopPropagation();
-        termsModal.style.display = "block";
-    });
-
-    document.getElementById("ContractTerms").addEventListener("click", (e) => {
-        e.stopPropagation();
-        contractModal.style.display = "block";
-    });
-
-    document.getElementById("closeModal").onclick = () => {
-        termsModal.style.display = "none";
-    };
-
-    document.getElementById("closeModal1").onclick = () => {
-        contractModal.style.display = "none";
-    };
-
-    window.addEventListener("click", (e) => {
-        if (e.target === termsModal) {
-            termsModal.style.display = "none";
-        }
-        if (e.target === contractModal) {
-            contractModal.style.display = "none";
-        }
-    });
-</script>
-
-
+       
+    <script src="js/modal.js"></script>
     <script src="js/scriptbarra.js"></script>
     <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
 
@@ -245,6 +214,7 @@
 
 
 </html>
+
 
 
 

@@ -217,16 +217,34 @@ async function loadResults() {
     if (!contract) return;
 
     const res = await contract.getResults();
+
+    // votos (BigNumber -> Number)
+    const pulgaVotes = Number(res[0]);
+    const bichoVotes = Number(res[1]);
+
+    const totalVotes = pulgaVotes + bichoVotes;
+
+    if (totalVotes === 0) {
+      document.getElementById("results").innerText =
+        "Todavía no hay votos registrados.";
+      return;
+    }
+
+    const pulgaPct = ((pulgaVotes / totalVotes) * 100).toFixed(2);
+    const bichoPct = ((bichoVotes / totalVotes) * 100).toFixed(2);
+
     document.getElementById("results").innerText =
-      `PulgaLovers: ${res[0]} | BichoLovers: ${res[1]}`;
+      `PulgaLovers: ${pulgaPct}% | BichoLovers: ${bichoPct}%`;
 
   } catch (err) {
     console.error(err);
   }
 }
 
+
 /* =======================
    LISTENERS
 ======================= */
 ethereum.on("accountsChanged", () => location.reload());
 ethereum.on("chainChanged", () => location.reload());
+

@@ -40,5 +40,12 @@
         "fecha": "2024-03-10",
         "imagen": "imagenes/trading.webp",
         "contenido": "Textos/notas/recursos_adicionales_para_potenciar_tus_conocimientos_en_trading_y_en_inversiones.txt"
+    },
+    {
+        "id": "nota7",
+        "titulo": "Recursos adicionales para potenciar tus conocimientos en el trading y las inversiones",
+        "fecha": "2026-02-02",
+        "imagen": "imagenes/portadaprestamos.png",
+        "contenido": "Textos/notas/préstamos_en_argentina__cómo_elegir_y_entender_las_diferencias.txt"
     }
 ]

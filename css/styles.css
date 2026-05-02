@@ -427,6 +427,43 @@ main {
   margin-bottom: 1rem;
 }
 
+/*=== GUIA === */
+.guia {
+      display: flex;  
+      flex-direction: column;
+      align-items: center;
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      justify-content: center;
+      
+    
+
+}
+.guia .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 30px;
+    background: #238636;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.guia .btn:hover {
+    background: #2ea043;
+}
+
+.guia .cover {
+      width: 250px;
+      margin: 30px auto;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+          }
+
+
 
 
 /* === FOOTER === */

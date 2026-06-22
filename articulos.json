@@ -90,5 +90,12 @@
         "fecha":"2026-1-9",
         "imagen": "imagenes/invertirproyectos.png",
         "contenido":"Textos/articulos/guía_para_evaluar_proyectos_antes_de_invertir_(incluyendo_tokens).txt"
+    },
+    {
+        "id":"articulo14",
+        "titulo":"Las 5 noticias más importantes del mundo cripto en junio de 2026, bitcoin, regulación y stablecoins",
+        "fecha":"2026-6-22",
+        "imagen": "imagenes/5noticiasJunio2026.png",
+        "contenido":"Textos/articulos/las_5_noticias_más_importantes_del_mundo_cripto_en_junio_de_2026__bitcoin,_regulación_y_stablecoins.txt"
     }
 ] 

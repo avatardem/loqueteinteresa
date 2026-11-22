@@ -212,6 +212,8 @@ main {
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
+    color: white;
+  
 }
 
 .articulo-principal img {

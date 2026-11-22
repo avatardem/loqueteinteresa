@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         `Escrito el ${fechaFormateada}`;
 
                     document.getElementById("imagen").src = articulo.imagen;
-                    document.getElementById("imagen").alt = articulo.titulo;
+                    //document.getElementById("imagen").alt = articulo.titulo;
 
                     // CARGAR CONTENIDO DEL ARTÍCULO
                     fetch(articulo.contenido)
